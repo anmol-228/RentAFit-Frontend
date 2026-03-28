@@ -14,6 +14,10 @@ export function resolveAssetPath(path) {
   }
 
   const normalizedBase = BASE_URL.endsWith('/') ? BASE_URL.slice(0, -1) : BASE_URL;
+  if (normalizedBase && (value === normalizedBase || value.startsWith(`${normalizedBase}/`))) {
+    return value;
+  }
+
   if (value.startsWith('/')) {
     return `${normalizedBase}${value}`;
   }
