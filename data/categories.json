@@ -1,0 +1,32 @@
+{
+    "categories": [
+        "Shirt",
+        "Jeans",
+        "Dress",
+        "Jacket",
+        "Top",
+        "Activewear",
+        "Saree",
+        "Kurta Women",
+        "Kurta Men",
+        "Lehenga",
+        "Ethnic Wear"
+    ],
+    "genders": [
+        "Men",
+        "Women",
+        "Unisex"
+    ],
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "conditions": [
+        "New",
+        "Like New",
+        "Used"
+    ]
+}
