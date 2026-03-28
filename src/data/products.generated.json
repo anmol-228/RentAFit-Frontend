@@ -1,0 +1,2777 @@
+[
+  {
+    "id": "L0001",
+    "listingId": "L0001",
+    "slug": "zara-black-linen-black-shirt-men",
+    "name": "Black Shirt",
+    "productName": "Black Shirt",
+    "brand": "Zara",
+    "category": "Shirt",
+    "gender": "Men",
+    "material": "Linen",
+    "color": "Black",
+    "size": "XL",
+    "availableSizes": [
+      "XL"
+    ],
+    "condition": "Like New",
+    "ageMonths": 3,
+    "price": 742,
+    "providerPrice": 742,
+    "originalPrice": 3499,
+    "shortDescription": "Black Shirt crafted from Linen, offering style and comfort.",
+    "description": "This black shirt made from linen is designed for men wear, suitable for casual outings, festive occasions, and modern styling needs.",
+    "styleTags": [
+      "formal",
+      "structured"
+    ],
+    "occasionTags": [
+      "daily",
+      "office"
+    ],
+    "searchKeywords": [
+      "men",
+      "shirt",
+      "black",
+      "linen",
+      "fashion"
+    ],
+    "styleTag": "formal",
+    "mainImageUrl": "/product_images/L0001/L0001_main.jpg",
+    "imageUrls": [
+      "/product_images/L0001/L0001_main.jpg",
+      "/product_images/L0001/L0001_detail.jpg"
+    ],
+    "status": "ACTIVE",
+    "availability": "IN_STOCK",
+    "featured": true,
+    "trending": false,
+    "recent": true,
+    "createdAt": "2026-03-20",
+    "rating": 4.8,
+    "badge": "Featured",
+    "trustNotes": [
+      "Sanitized before dispatch",
+      "Condition reviewed",
+      "Easy return pickup"
+    ],
+    "colorTheme": [
+      "#2B2B2B",
+      "#E9DDD1"
+    ],
+    "source": "catalog"
+  },
+  {
+    "id": "L0002",
+    "listingId": "L0002",
+    "slug": "zara-blue-denim-blue-shirt-men",
+    "name": "Blue Shirt",
+    "productName": "Blue Shirt",
+    "brand": "Zara",
+    "category": "Shirt",
+    "gender": "Men",
+    "material": "Denim",
+    "color": "Blue",
+    "size": "XL",
+    "availableSizes": [
+      "XL"
+    ],
+    "condition": "New",
+    "ageMonths": 13,
+    "price": 823,
+    "providerPrice": 823,
+    "originalPrice": 2499,
+    "shortDescription": "Blue Shirt crafted from Denim, offering style and comfort.",
+    "description": "This blue shirt made from denim is designed for men wear, suitable for casual outings, festive occasions, and modern styling needs.",
+    "styleTags": [
+      "ethnic",
+      "traditional"
+    ],
+    "occasionTags": [
+      "daily",
+      "office"
+    ],
+    "searchKeywords": [
+      "men",
+      "shirt",
+      "blue",
+      "denim",
+      "fashion"
+    ],
+    "styleTag": "ethnic",
+    "mainImageUrl": "/product_images/L0002/L0002_main.jpg",
+    "imageUrls": [
+      "/product_images/L0002/L0002_main.jpg",
+      "/product_images/L0002/L0002_detail.jpg"
+    ],
+    "status": "ACTIVE",
+    "availability": "IN_STOCK",
+    "featured": true,
+    "trending": false,
+    "recent": true,
+    "createdAt": "2026-03-20",
+    "rating": 5.0,
+    "badge": "Featured",
+    "trustNotes": [
+      "Sanitized before dispatch",
+      "Freshly listed condition",
+      "Easy return pickup"
+    ],
+    "colorTheme": [
+      "#355C7D",
+      "#D9E5F0"
+    ],
+    "source": "catalog"
+  },
+  {
+    "id": "L0003",
+    "listingId": "L0003",
+    "slug": "zara-black-white-cotton-checked-shirt-men",
+    "name": "Checked Shirt",
+    "productName": "Checked Shirt",
+    "brand": "Zara",
+    "category": "Shirt",
+    "gender": "Men",
+    "material": "Cotton",
+    "color": "Black & White",
+    "size": "M",
+    "availableSizes": [
+      "M"
+    ],
+    "condition": "Like New",
+    "ageMonths": 17,
+    "price": 617,
+    "providerPrice": 617,
+    "originalPrice": 2499,
+    "shortDescription": "Black & White Shirt crafted from Cotton, offering style and comfort.",
+    "description": "This black & white shirt made from cotton is designed for men wear, suitable for casual outings, festive occasions, and modern styling needs.",
+    "styleTags": [
+      "formal",
+      "structured"
+    ],
+    "occasionTags": [
+      "daily",
+      "office"
+    ],
+    "searchKeywords": [
+      "men",
+      "shirt",
+      "black & white",
+      "cotton",
+      "fashion"
+    ],
+    "styleTag": "formal",
+    "mainImageUrl": "/product_images/L0003/L0003_main.jpg",
+    "imageUrls": [
+      "/product_images/L0003/L0003_main.jpg",
+      "/product_images/L0003/L0003_detail.jpg"
+    ],
+    "status": "ACTIVE",
+    "availability": "IN_STOCK",
+    "featured": true,
+    "trending": false,
+    "recent": true,
+    "createdAt": "2026-03-20",
+    "rating": 4.8,
+    "badge": "Featured",
+    "trustNotes": [
+      "Sanitized before dispatch",
+      "Condition reviewed",
+      "Easy return pickup"
+    ],
+    "colorTheme": [
+      "#6C584C",
+      "#EADFD5"
+    ],
+    "source": "catalog"
+  },
+  {
+    "id": "L0004",
+    "listingId": "L0004",
+    "slug": "uniqlo-black-cotton-black-shirt-unisex",
+    "name": "Black Shirt",
+    "productName": "Black Shirt",
+    "brand": "Uniqlo",
+    "category": "Shirt",
+    "gender": "Unisex",
+    "material": "Cotton",
+    "color": "Black",
+    "size": "M",
+    "availableSizes": [
+      "M"
+    ],
+    "condition": "Like New",
+    "ageMonths": 18,
+    "price": 1007,
+    "providerPrice": 1007,
+    "originalPrice": 3499,
+    "shortDescription": "Black Shirt crafted from Cotton, offering style and comfort.",
+    "description": "This black shirt made from cotton is designed for unisex wear, suitable for casual outings, festive occasions, and modern styling needs.",
+    "styleTags": [
+      "festive",
+      "elegant"
+    ],
+    "occasionTags": [
+      "daily",
+      "office"
+    ],
+    "searchKeywords": [
+      "unisex",
+      "shirt",
+      "black",
+      "cotton",
+      "fashion"
+    ],
+    "styleTag": "festive",
+    "mainImageUrl": "/product_images/L0004/L0004_main.jpg",
+    "imageUrls": [
+      "/product_images/L0004/L0004_main.jpg",
+      "/product_images/L0004/L0004_detail.jpg"
+    ],
+    "status": "ACTIVE",
+    "availability": "IN_STOCK",
+    "featured": true,
+    "trending": false,
+    "recent": true,
+    "createdAt": "2026-03-20",
+    "rating": 4.8,
+    "badge": "Featured",
+    "trustNotes": [
+      "Sanitized before dispatch",
+      "Condition reviewed",
+      "Easy return pickup"
+    ],
+    "colorTheme": [
+      "#2B2B2B",
+      "#E9DDD1"
+    ],
+    "source": "catalog"
+  },
+  {
+    "id": "L0005",
+    "listingId": "L0005",
+    "slug": "hm-white-linen-white-shirt-unisex",
+    "name": "White Shirt",
+    "productName": "White Shirt",
+    "brand": "H&M",
+    "category": "Shirt",
+    "gender": "Unisex",
+    "material": "Linen",
+    "color": "White",
+    "size": "XL",
+    "availableSizes": [
+      "XL"
+    ],
+    "condition": "Used",
+    "ageMonths": 12,
+    "price": 1938,
+    "providerPrice": 1938,
+    "originalPrice": 6999,
+    "shortDescription": "White Shirt crafted from Linen, offering style and comfort.",
+    "description": "This white shirt made from linen is designed for unisex wear, suitable for casual outings, festive occasions, and modern styling needs.",
+    "styleTags": [
+      "formal",
+      "structured"
+    ],
+    "occasionTags": [
+      "daily",
+      "office"
+    ],
+    "searchKeywords": [
+      "unisex",
+      "shirt",
+      "white",
+      "linen",
+      "fashion"
+    ],
+    "styleTag": "formal",
+    "mainImageUrl": "/product_images/L0005/L0005_main.jpg",
+    "imageUrls": [
+      "/product_images/L0005/L0005_main.jpg",
+      "/product_images/L0005/L0005_detail.jpg"
+    ],
+    "status": "ACTIVE",
+    "availability": "IN_STOCK",
+    "featured": true,
+    "trending": false,
+    "recent": true,
+    "createdAt": "2026-03-20",
+    "rating": 4.4,
+    "badge": "Featured",
+    "trustNotes": [
+      "Sanitized before dispatch",
+      "Visible wear noted in review",
+      "Easy return pickup"
+    ],
+    "colorTheme": [
+      "#C9B8A9",
+      "#FFF8F2"
+    ],
+    "source": "catalog"
+  },
+  {
+    "id": "L0006",
+    "listingId": "L0006",
+    "slug": "levis-light-blue-denim-light-blue-jeans-women",
+    "name": "Light Blue Jeans",
+    "productName": "Light Blue Jeans",
+    "brand": "Levi's",
+    "category": "Jeans",
+    "gender": "Women",
+    "material": "Denim",
+    "color": "Light Blue",
+    "size": "XS",
+    "availableSizes": [
+      "XS"
+    ],
+    "condition": "Used",
+    "ageMonths": 8,
+    "price": 1042,
+    "providerPrice": 1042,
+    "originalPrice": 4999,
+    "shortDescription": "Light Blue Jeans crafted from Denim, offering style and comfort.",
+    "description": "This light blue jeans made from denim is designed for women wear, suitable for casual outings, festive occasions, and modern styling needs.",
+    "styleTags": [
+      "casual",
+      "minimal"
+    ],
+    "occasionTags": [
+      "party",
+      "outing"
+    ],
+    "searchKeywords": [
+      "women",
+      "jeans",
+      "light blue",
+      "denim",
+      "fashion"
+    ],
+    "styleTag": "casual",
+    "mainImageUrl": "/product_images/L0006/L0006_main.jpg",
+    "imageUrls": [
+      "/product_images/L0006/L0006_main.jpg",
+      "/product_images/L0006/L0006_detail.jpg"
+    ],
+    "status": "ACTIVE",
+    "availability": "OUT_OF_STOCK",
+    "featured": true,
+    "trending": true,
+    "recent": true,
+    "createdAt": "2026-03-20",
+    "rating": 4.5,
+    "badge": "Trending",
+    "trustNotes": [
+      "Sanitized before dispatch",
+      "Visible wear noted in review",
+      "Easy return pickup"
+    ],
+    "colorTheme": [
+      "#8A5962",
+      "#F1DEE2"
+    ],
+    "source": "catalog"
+  },
+  {
+    "id": "L0007",
+    "listingId": "L0007",
+    "slug": "wrangler-blue-denim-blue-jeans-women",
+    "name": "Blue Jeans",
+    "productName": "Blue Jeans",
+    "brand": "Wrangler",
+    "category": "Jeans",
+    "gender": "Women",
+    "material": "Denim",
+    "color": "Blue",
+    "size": "S",
+    "availableSizes": [
+      "S"
+    ],
+    "condition": "New",
+    "ageMonths": 12,
+    "price": 1085,
+    "providerPrice": 1085,
+    "originalPrice": 3499,
+    "shortDescription": "Blue Jeans crafted from Denim, offering style and comfort.",
+    "description": "This blue jeans made from denim is designed for women wear, suitable for casual outings, festive occasions, and modern styling needs.",
+    "styleTags": [
+      "ethnic",
+      "traditional"
+    ],
+    "occasionTags": [
+      "party",
+      "outing"
+    ],
+    "searchKeywords": [
+      "women",
+      "jeans",
+      "blue",
+      "denim",
+      "fashion"
+    ],
+    "styleTag": "ethnic",
+    "mainImageUrl": "/product_images/L0007/L0007_main.jpg",
+    "imageUrls": [
+      "/product_images/L0007/L0007_main.jpg",
+      "/product_images/L0007/L0007_detail.jpg"
+    ],
+    "status": "ACTIVE",
+    "availability": "IN_STOCK",
+    "featured": true,
+    "trending": false,
+    "recent": true,
+    "createdAt": "2026-03-20",
+    "rating": 5.0,
+    "badge": "Featured",
+    "trustNotes": [
+      "Sanitized before dispatch",
+      "Freshly listed condition",
+      "Easy return pickup"
+    ],
+    "colorTheme": [
+      "#355C7D",
+      "#D9E5F0"
+    ],
+    "source": "catalog"
+  },
+  {
+    "id": "L0008",
+    "listingId": "L0008",
+    "slug": "levis-deep-navy-denim-deep-navy-jeans-men",
+    "name": "Deep Navy Jeans",
+    "productName": "Deep Navy Jeans",
+    "brand": "Levi's",
+    "category": "Jeans",
+    "gender": "Men",
+    "material": "Denim",
+    "color": "Deep Navy",
+    "size": "S",
+    "availableSizes": [
+      "S"
+    ],
+    "condition": "New",
+    "ageMonths": 9,
+    "price": 1747,
+    "providerPrice": 1747,
+    "originalPrice": 6999,
+    "shortDescription": "Deep Navy Jeans crafted from Denim, offering style and comfort.",
+    "description": "This deep navy jeans made from denim is designed for men wear, suitable for casual outings, festive occasions, and modern styling needs.",
+    "styleTags": [
+      "sporty",
+      "active"
+    ],
+    "occasionTags": [
+      "party",
+      "outing"
+    ],
+    "searchKeywords": [
+      "men",
+      "jeans",
+      "deep navy",
+      "denim",
+      "fashion"
+    ],
+    "styleTag": "sporty",
+    "mainImageUrl": "/product_images/L0008/L0008_main.jpg",
+    "imageUrls": [
+      "/product_images/L0008/L0008_main.jpg",
+      "/product_images/L0008/L0008_detail.jpg"
+    ],
+    "status": "ACTIVE",
+    "availability": "IN_STOCK",
+    "featured": true,
+    "trending": false,
+    "recent": true,
+    "createdAt": "2026-03-20",
+    "rating": 5.0,
+    "badge": "Featured",
+    "trustNotes": [
+      "Sanitized before dispatch",
+      "Freshly listed condition",
+      "Easy return pickup"
+    ],
+    "colorTheme": [
+      "#6C584C",
+      "#EADFD5"
+    ],
+    "source": "catalog"
+  },
+  {
+    "id": "L0009",
+    "listingId": "L0009",
+    "slug": "levis-black-denim-black-jeans-men",
+    "name": "Black Jeans",
+    "productName": "Black Jeans",
+    "brand": "Levi's",
+    "category": "Jeans",
+    "gender": "Men",
+    "material": "Denim",
+    "color": "Black",
+    "size": "XL",
+    "availableSizes": [
+      "XL"
+    ],
+    "condition": "Like New",
+    "ageMonths": 14,
+    "price": 545,
+    "providerPrice": 545,
+    "originalPrice": 1999,
+    "shortDescription": "Black Jeans crafted from Denim, offering style and comfort.",
+    "description": "This black jeans made from denim is designed for men wear, suitable for casual outings, festive occasions, and modern styling needs.",
+    "styleTags": [
+      "formal",
+      "structured"
+    ],
+    "occasionTags": [
+      "party",
+      "outing"
+    ],
+    "searchKeywords": [
+      "men",
+      "jeans",
+      "black",
+      "denim",
+      "fashion"
+    ],
+    "styleTag": "formal",
+    "mainImageUrl": "/product_images/L0009/L0009_main.jpg",
+    "imageUrls": [
+      "/product_images/L0009/L0009_main.jpg",
+      "/product_images/L0009/L0009_detail.jpg"
+    ],
+    "status": "ACTIVE",
+    "availability": "IN_STOCK",
+    "featured": true,
+    "trending": false,
+    "recent": true,
+    "createdAt": "2026-03-20",
+    "rating": 4.8,
+    "badge": "Featured",
+    "trustNotes": [
+      "Sanitized before dispatch",
+      "Condition reviewed",
+      "Easy return pickup"
+    ],
+    "colorTheme": [
+      "#2B2B2B",
+      "#E9DDD1"
+    ],
+    "source": "catalog"
+  },
+  {
+    "id": "L0010",
+    "listingId": "L0010",
+    "slug": "hm-navy-blue-denim-navy-blue-jeans-women",
+    "name": "Navy Blue Jeans",
+    "productName": "Navy Blue Jeans",
+    "brand": "H&M",
+    "category": "Jeans",
+    "gender": "Women",
+    "material": "Denim",
+    "color": "Navy Blue",
+    "size": "XL",
+    "availableSizes": [
+      "XL"
+    ],
+    "condition": "Like New",
+    "ageMonths": 4,
+    "price": 638,
+    "providerPrice": 638,
+    "originalPrice": 2499,
+    "shortDescription": "Navy Blue Jeans crafted from Denim, offering style and comfort.",
+    "description": "This navy blue jeans made from denim is designed for women wear, suitable for casual outings, festive occasions, and modern styling needs.",
+    "styleTags": [
+      "sporty",
+      "active"
+    ],
+    "occasionTags": [
+      "party",
+      "outing"
+    ],
+    "searchKeywords": [
+      "women",
+      "jeans",
+      "navy blue",
+      "denim",
+      "fashion"
+    ],
+    "styleTag": "sporty",
+    "mainImageUrl": "/product_images/L0010/L0010_main.jpg",
+    "imageUrls": [
+      "/product_images/L0010/L0010_main.jpg",
+      "/product_images/L0010/L0010_detail.jpg"
+    ],
+    "status": "ACTIVE",
+    "availability": "IN_STOCK",
+    "featured": true,
+    "trending": false,
+    "recent": true,
+    "createdAt": "2026-03-20",
+    "rating": 4.8,
+    "badge": "Featured",
+    "trustNotes": [
+      "Sanitized before dispatch",
+      "Condition reviewed",
+      "Easy return pickup"
+    ],
+    "colorTheme": [
+      "#8A5962",
+      "#F1DEE2"
+    ],
+    "source": "catalog"
+  },
+  {
+    "id": "L0011",
+    "listingId": "L0011",
+    "slug": "zara-butter-yellow-polyester-butter-yellow-dress-women",
+    "name": "Butter Yellow Dress",
+    "productName": "Butter Yellow Dress",
+    "brand": "Zara",
+    "category": "Dress",
+    "gender": "Women",
+    "material": "Polyester",
+    "color": "Butter Yellow",
+    "size": "L",
+    "availableSizes": [
+      "L"
+    ],
+    "condition": "New",
+    "ageMonths": 5,
+    "price": 1486,
+    "providerPrice": 1486,
+    "originalPrice": 4999,
+    "shortDescription": "Butter Yellow Dress crafted from Polyester, offering style and comfort.",
+    "description": "This butter yellow dress made from polyester is designed for women wear, suitable for casual outings, festive occasions, and modern styling needs.",
+    "styleTags": [
+      "festive",
+      "elegant"
+    ],
+    "occasionTags": [
+      "party",
+      "outing"
+    ],
+    "searchKeywords": [
+      "women",
+      "dress",
+      "butter yellow",
+      "polyester",
+      "fashion"
+    ],
+    "styleTag": "festive",
+    "mainImageUrl": "/product_images/L0011/L0011_main.jpg",
+    "imageUrls": [
+      "/product_images/L0011/L0011_main.jpg",
+      "/product_images/L0011/L0011_detail.jpg"
+    ],
+    "status": "ACTIVE",
+    "availability": "IN_STOCK",
+    "featured": false,
+    "trending": false,
+    "recent": true,
+    "createdAt": "2026-03-20",
+    "rating": 4.8,
+    "badge": "New In",
+    "trustNotes": [
+      "Sanitized before dispatch",
+      "Freshly listed condition",
+      "Easy return pickup"
+    ],
+    "colorTheme": [
+      "#8A5962",
+      "#F1DEE2"
+    ],
+    "source": "catalog"
+  },
+  {
+    "id": "L0012",
+    "listingId": "L0012",
+    "slug": "zara-pastel-blue-cotton-pastel-blue-dress-women",
+    "name": "Pastel Blue Dress",
+    "productName": "Pastel Blue Dress",
+    "brand": "Zara",
+    "category": "Dress",
+    "gender": "Women",
+    "material": "Cotton",
+    "color": "Pastel Blue",
+    "size": "L",
+    "availableSizes": [
+      "L"
+    ],
+    "condition": "New",
+    "ageMonths": 16,
+    "price": 1824,
+    "providerPrice": 1824,
+    "originalPrice": 6999,
+    "shortDescription": "Pastel Blue Dress crafted from Cotton, offering style and comfort.",
+    "description": "This pastel blue dress made from cotton is designed for women wear, suitable for casual outings, festive occasions, and modern styling needs.",
+    "styleTags": [
+      "casual",
+      "minimal"
+    ],
+    "occasionTags": [
+      "party",
+      "outing"
+    ],
+    "searchKeywords": [
+      "women",
+      "dress",
+      "pastel blue",
+      "cotton",
+      "fashion"
+    ],
+    "styleTag": "casual",
+    "mainImageUrl": "/product_images/L0012/L0012_main.jpg",
+    "imageUrls": [
+      "/product_images/L0012/L0012_main.jpg",
+      "/product_images/L0012/L0012_detail.jpg"
+    ],
+    "status": "ACTIVE",
+    "availability": "IN_STOCK",
+    "featured": false,
+    "trending": true,
+    "recent": true,
+    "createdAt": "2026-03-20",
+    "rating": 4.9,
+    "badge": "Trending",
+    "trustNotes": [
+      "Sanitized before dispatch",
+      "Freshly listed condition",
+      "Easy return pickup"
+    ],
+    "colorTheme": [
+      "#8A5962",
+      "#F1DEE2"
+    ],
+    "source": "catalog"
+  },
+  {
+    "id": "L0013",
+    "listingId": "L0013",
+    "slug": "zara-black-polyester-black-short-dress-women",
+    "name": "Black Short Dress",
+    "productName": "Black Short Dress",
+    "brand": "Zara",
+    "category": "Dress",
+    "gender": "Women",
+    "material": "Polyester",
+    "color": "Black",
+    "size": "S",
+    "availableSizes": [
+      "S"
+    ],
+    "condition": "Used",
+    "ageMonths": 18,
+    "price": 621,
+    "providerPrice": 621,
+    "originalPrice": 1999,
+    "shortDescription": "Black Dress crafted from Polyester, offering style and comfort.",
+    "description": "This black dress made from polyester is designed for women wear, suitable for casual outings, festive occasions, and modern styling needs.",
+    "styleTags": [
+      "ethnic",
+      "traditional"
+    ],
+    "occasionTags": [
+      "party",
+      "outing"
+    ],
+    "searchKeywords": [
+      "women",
+      "dress",
+      "black",
+      "polyester",
+      "fashion"
+    ],
+    "styleTag": "ethnic",
+    "mainImageUrl": "/product_images/L0013/L0013_main.jpg",
+    "imageUrls": [
+      "/product_images/L0013/L0013_main.jpg",
+      "/product_images/L0013/L0013_detail.jpg"
+    ],
+    "status": "ACTIVE",
+    "availability": "OUT_OF_STOCK",
+    "featured": false,
+    "trending": false,
+    "recent": true,
+    "createdAt": "2026-03-20",
+    "rating": 4.2,
+    "badge": "New In",
+    "trustNotes": [
+      "Sanitized before dispatch",
+      "Visible wear noted in review",
+      "Easy return pickup"
+    ],
+    "colorTheme": [
+      "#2B2B2B",
+      "#E9DDD1"
+    ],
+    "source": "catalog"
+  },
+  {
+    "id": "L0014",
+    "listingId": "L0014",
+    "slug": "hm-lavendar-silk-lavendar-long-dress-women",
+    "name": "Lavendar Long Dress",
+    "productName": "Lavendar Long Dress",
+    "brand": "H&M",
+    "category": "Dress",
+    "gender": "Women",
+    "material": "Silk",
+    "color": "Lavendar",
+    "size": "S",
+    "availableSizes": [
+      "S"
+    ],
+    "condition": "Like New",
+    "ageMonths": 4,
+    "price": 1089,
+    "providerPrice": 1089,
+    "originalPrice": 3499,
+    "shortDescription": "Lavendar Dress crafted from Silk, offering style and comfort.",
+    "description": "This lavendar dress made from silk is designed for women wear, suitable for casual outings, festive occasions, and modern styling needs.",
+    "styleTags": [
+      "festive",
+      "elegant"
+    ],
+    "occasionTags": [
+      "party",
+      "outing"
+    ],
+    "searchKeywords": [
+      "women",
+      "dress",
+      "lavendar",
+      "silk",
+      "fashion"
+    ],
+    "styleTag": "festive",
+    "mainImageUrl": "/product_images/L0014/L0014_main.jpg",
+    "imageUrls": [
+      "/product_images/L0014/L0014_main.jpg",
+      "/product_images/L0014/L0014_detail.jpg"
+    ],
+    "status": "ACTIVE",
+    "availability": "IN_STOCK",
+    "featured": false,
+    "trending": false,
+    "recent": true,
+    "createdAt": "2026-03-20",
+    "rating": 4.6,
+    "badge": "New In",
+    "trustNotes": [
+      "Sanitized before dispatch",
+      "Condition reviewed",
+      "Easy return pickup"
+    ],
+    "colorTheme": [
+      "#8A5962",
+      "#F1DEE2"
+    ],
+    "source": "catalog"
+  },
+  {
+    "id": "L0015",
+    "listingId": "L0015",
+    "slug": "fabindia-gold-silk-gold-glitter-dress-women",
+    "name": "Gold Glitter Dress",
+    "productName": "Gold Glitter Dress",
+    "brand": "FabIndia",
+    "category": "Dress",
+    "gender": "Women",
+    "material": "Silk",
+    "color": "Gold",
+    "size": "XL",
+    "availableSizes": [
+      "XL"
+    ],
+    "condition": "New",
+    "ageMonths": 13,
+    "price": 707,
+    "providerPrice": 707,
+    "originalPrice": 2499,
+    "shortDescription": "Gold Dress crafted from Silk, offering style and comfort.",
+    "description": "This gold dress made from silk is designed for women wear, suitable for casual outings, festive occasions, and modern styling needs.",
+    "styleTags": [
+      "sporty",
+      "active"
+    ],
+    "occasionTags": [
+      "party",
+      "outing"
+    ],
+    "searchKeywords": [
+      "women",
+      "dress",
+      "gold",
+      "silk",
+      "fashion"
+    ],
+    "styleTag": "sporty",
+    "mainImageUrl": "/product_images/L0015/L0015_main.jpg",
+    "imageUrls": [
+      "/product_images/L0015/L0015_main.jpg",
+      "/product_images/L0015/L0015_detail.jpg"
+    ],
+    "status": "ACTIVE",
+    "availability": "IN_STOCK",
+    "featured": false,
+    "trending": false,
+    "recent": true,
+    "createdAt": "2026-03-20",
+    "rating": 4.8,
+    "badge": "New In",
+    "trustNotes": [
+      "Sanitized before dispatch",
+      "Freshly listed condition",
+      "Easy return pickup"
+    ],
+    "colorTheme": [
+      "#8A5962",
+      "#F1DEE2"
+    ],
+    "source": "catalog"
+  },
+  {
+    "id": "L0016",
+    "listingId": "L0016",
+    "slug": "nike-black-leather-black-jacket-unisex",
+    "name": "Black Jacket",
+    "productName": "Black Jacket",
+    "brand": "Nike",
+    "category": "Jacket",
+    "gender": "Unisex",
+    "material": "Leather",
+    "color": "Black",
+    "size": "M",
+    "availableSizes": [
+      "M"
+    ],
+    "condition": "Like New",
+    "ageMonths": 13,
+    "price": 792,
+    "providerPrice": 792,
+    "originalPrice": 3499,
+    "shortDescription": "Black Jacket crafted from Leather, offering style and comfort.",
+    "description": "This black jacket made from leather is designed for unisex wear, suitable for casual outings, festive occasions, and modern styling needs.",
+    "styleTags": [
+      "formal",
+      "structured"
+    ],
+    "occasionTags": [
+      "daily",
+      "office"
+    ],
+    "searchKeywords": [
+      "unisex",
+      "jacket",
+      "black",
+      "leather",
+      "fashion"
+    ],
+    "styleTag": "formal",
+    "mainImageUrl": "/product_images/L0016/L0016_main.jpg",
+    "imageUrls": [
+      "/product_images/L0016/L0016_main.jpg",
+      "/product_images/L0016/L0016_detail.jpg"
+    ],
+    "status": "ACTIVE",
+    "availability": "IN_STOCK",
+    "featured": false,
+    "trending": false,
+    "recent": true,
+    "createdAt": "2026-03-20",
+    "rating": 4.6,
+    "badge": "New In",
+    "trustNotes": [
+      "Sanitized before dispatch",
+      "Condition reviewed",
+      "Easy return pickup"
+    ],
+    "colorTheme": [
+      "#2B2B2B",
+      "#E9DDD1"
+    ],
+    "source": "catalog"
+  },
+  {
+    "id": "L0017",
+    "listingId": "L0017",
+    "slug": "zara-blue-demin-blue-jacket-men",
+    "name": "Blue Jacket",
+    "productName": "Blue Jacket",
+    "brand": "Zara",
+    "category": "Jacket",
+    "gender": "Men",
+    "material": "Demin",
+    "color": "Blue",
+    "size": "L",
+    "availableSizes": [
+      "L"
+    ],
+    "condition": "Like New",
+    "ageMonths": 1,
+    "price": 837,
+    "providerPrice": 837,
+    "originalPrice": 2499,
+    "shortDescription": "Blue Jacket crafted from Demin, offering style and comfort.",
+    "description": "This blue jacket made from demin is designed for men wear, suitable for casual outings, festive occasions, and modern styling needs.",
+    "styleTags": [
+      "formal",
+      "structured"
+    ],
+    "occasionTags": [
+      "daily",
+      "office"
+    ],
+    "searchKeywords": [
+      "men",
+      "jacket",
+      "blue",
+      "demin",
+      "fashion"
+    ],
+    "styleTag": "formal",
+    "mainImageUrl": "/product_images/L0017/L0017_main.jpg",
+    "imageUrls": [
+      "/product_images/L0017/L0017_main.jpg",
+      "/product_images/L0017/L0017_detail.jpg"
+    ],
+    "status": "ACTIVE",
+    "availability": "IN_STOCK",
+    "featured": false,
+    "trending": false,
+    "recent": true,
+    "createdAt": "2026-03-20",
+    "rating": 4.6,
+    "badge": "New In",
+    "trustNotes": [
+      "Sanitized before dispatch",
+      "Condition reviewed",
+      "Easy return pickup"
+    ],
+    "colorTheme": [
+      "#355C7D",
+      "#D9E5F0"
+    ],
+    "source": "catalog"
+  },
+  {
+    "id": "L0018",
+    "listingId": "L0018",
+    "slug": "hm-black-cotton-black-cropped-jacket-women",
+    "name": "Black Cropped Jacket",
+    "productName": "Black Cropped Jacket",
+    "brand": "H&M",
+    "category": "Jacket",
+    "gender": "Women",
+    "material": "Cotton",
+    "color": "Black",
+    "size": "XL",
+    "availableSizes": [
+      "XL"
+    ],
+    "condition": "Like New",
+    "ageMonths": 8,
+    "price": 1135,
+    "providerPrice": 1135,
+    "originalPrice": 3499,
+    "shortDescription": "Black Jacket crafted from Cotton, offering style and comfort.",
+    "description": "This black jacket made from cotton is designed for women wear, suitable for casual outings, festive occasions, and modern styling needs.",
+    "styleTags": [
+      "formal",
+      "structured"
+    ],
+    "occasionTags": [
+      "daily",
+      "office"
+    ],
+    "searchKeywords": [
+      "women",
+      "jacket",
+      "black",
+      "cotton",
+      "fashion"
+    ],
+    "styleTag": "formal",
+    "mainImageUrl": "/product_images/L0018/L0018_main.jpg",
+    "imageUrls": [
+      "/product_images/L0018/L0018_main.jpg",
+      "/product_images/L0018/L0018_detail.jpg"
+    ],
+    "status": "ACTIVE",
+    "availability": "IN_STOCK",
+    "featured": false,
+    "trending": true,
+    "recent": true,
+    "createdAt": "2026-03-20",
+    "rating": 4.7,
+    "badge": "Trending",
+    "trustNotes": [
+      "Sanitized before dispatch",
+      "Condition reviewed",
+      "Easy return pickup"
+    ],
+    "colorTheme": [
+      "#2B2B2B",
+      "#E9DDD1"
+    ],
+    "source": "catalog"
+  },
+  {
+    "id": "L0019",
+    "listingId": "L0019",
+    "slug": "uniqlo-light-yellow-cotton-light-yellow-jacket-women",
+    "name": "Light Yellow Jacket",
+    "productName": "Light Yellow Jacket",
+    "brand": "Uniqlo",
+    "category": "Jacket",
+    "gender": "Women",
+    "material": "Cotton",
+    "color": "Light Yellow",
+    "size": "L",
+    "availableSizes": [
+      "L"
+    ],
+    "condition": "Like New",
+    "ageMonths": 1,
+    "price": 2327,
+    "providerPrice": 2327,
+    "originalPrice": 6999,
+    "shortDescription": "Light Yellow Jacket crafted from Cotton, offering style and comfort.",
+    "description": "This light yellow jacket made from cotton is designed for women wear, suitable for casual outings, festive occasions, and modern styling needs.",
+    "styleTags": [
+      "sporty",
+      "active"
+    ],
+    "occasionTags": [
+      "daily",
+      "office"
+    ],
+    "searchKeywords": [
+      "women",
+      "jacket",
+      "light yellow",
+      "cotton",
+      "fashion"
+    ],
+    "styleTag": "sporty",
+    "mainImageUrl": "/product_images/L0019/L0019_main.jpg",
+    "imageUrls": [
+      "/product_images/L0019/L0019_main.jpg",
+      "/product_images/L0019/L0019_detail.jpg"
+    ],
+    "status": "ACTIVE",
+    "availability": "IN_STOCK",
+    "featured": false,
+    "trending": false,
+    "recent": true,
+    "createdAt": "2026-03-20",
+    "rating": 4.6,
+    "badge": "New In",
+    "trustNotes": [
+      "Sanitized before dispatch",
+      "Condition reviewed",
+      "Easy return pickup"
+    ],
+    "colorTheme": [
+      "#8A5962",
+      "#F1DEE2"
+    ],
+    "source": "catalog"
+  },
+  {
+    "id": "L0020",
+    "listingId": "L0020",
+    "slug": "zara-olive-green-cotton-olive-green-jacket-men",
+    "name": "Olive Green Jacket",
+    "productName": "Olive Green Jacket",
+    "brand": "Zara",
+    "category": "Jacket",
+    "gender": "Men",
+    "material": "Cotton",
+    "color": "Olive Green",
+    "size": "XS",
+    "availableSizes": [
+      "XS"
+    ],
+    "condition": "New",
+    "ageMonths": 11,
+    "price": 1303,
+    "providerPrice": 1303,
+    "originalPrice": 4999,
+    "shortDescription": "Olive Green Jacket crafted from Cotton, offering style and comfort.",
+    "description": "This olive green jacket made from cotton is designed for men wear, suitable for casual outings, festive occasions, and modern styling needs.",
+    "styleTags": [
+      "sporty",
+      "active"
+    ],
+    "occasionTags": [
+      "daily",
+      "office"
+    ],
+    "searchKeywords": [
+      "men",
+      "jacket",
+      "olive green",
+      "cotton",
+      "fashion"
+    ],
+    "styleTag": "sporty",
+    "mainImageUrl": "/product_images/L0020/L0020_main.jpg",
+    "imageUrls": [
+      "/product_images/L0020/L0020_main.jpg",
+      "/product_images/L0020/L0020_detail.jpg"
+    ],
+    "status": "ACTIVE",
+    "availability": "OUT_OF_STOCK",
+    "featured": false,
+    "trending": false,
+    "recent": true,
+    "createdAt": "2026-03-20",
+    "rating": 4.8,
+    "badge": "New In",
+    "trustNotes": [
+      "Sanitized before dispatch",
+      "Freshly listed condition",
+      "Easy return pickup"
+    ],
+    "colorTheme": [
+      "#6C584C",
+      "#EADFD5"
+    ],
+    "source": "catalog"
+  },
+  {
+    "id": "L0021",
+    "listingId": "L0021",
+    "slug": "zara-beige-polyester-beige-button-up-top-women",
+    "name": "Beige Button Up Top",
+    "productName": "Beige Button Up Top",
+    "brand": "Zara",
+    "category": "Top",
+    "gender": "Women",
+    "material": "Polyester",
+    "color": "Beige",
+    "size": "L",
+    "availableSizes": [
+      "L"
+    ],
+    "condition": "New",
+    "ageMonths": 10,
+    "price": 1245,
+    "providerPrice": 1245,
+    "originalPrice": 4999,
+    "shortDescription": "Beige Top crafted from Polyester, offering style and comfort.",
+    "description": "This beige top made from polyester is designed for women wear, suitable for casual outings, festive occasions, and modern styling needs.",
+    "styleTags": [
+      "formal",
+      "structured"
+    ],
+    "occasionTags": [
+      "party",
+      "outing"
+    ],
+    "searchKeywords": [
+      "women",
+      "top",
+      "beige",
+      "polyester",
+      "fashion"
+    ],
+    "styleTag": "formal",
+    "mainImageUrl": "/product_images/L0021/L0021_main.jpg",
+    "imageUrls": [
+      "/product_images/L0021/L0021_main.jpg",
+      "/product_images/L0021/L0022_detail.jpg"
+    ],
+    "status": "ACTIVE",
+    "availability": "IN_STOCK",
+    "featured": false,
+    "trending": false,
+    "recent": true,
+    "createdAt": "2026-03-20",
+    "rating": 4.8,
+    "badge": "New In",
+    "trustNotes": [
+      "Sanitized before dispatch",
+      "Freshly listed condition",
+      "Easy return pickup"
+    ],
+    "colorTheme": [
+      "#A7866E",
+      "#F1E4D8"
+    ],
+    "source": "catalog"
+  },
+  {
+    "id": "L0022",
+    "listingId": "L0022",
+    "slug": "zara-black-white-cotton-striped-black-white-top-women",
+    "name": "Striped Black & White Top",
+    "productName": "Striped Black & White Top",
+    "brand": "Zara",
+    "category": "Top",
+    "gender": "Women",
+    "material": "Cotton",
+    "color": "Black & White",
+    "size": "L",
+    "availableSizes": [
+      "L"
+    ],
+    "condition": "Used",
+    "ageMonths": 8,
+    "price": 663,
+    "providerPrice": 663,
+    "originalPrice": 1999,
+    "shortDescription": "Black & White Top crafted from Cotton, offering style and comfort.",
+    "description": "This black & white top made from cotton is designed for women wear, suitable for casual outings, festive occasions, and modern styling needs.",
+    "styleTags": [
+      "casual",
+      "minimal"
+    ],
+    "occasionTags": [
+      "party",
+      "outing"
+    ],
+    "searchKeywords": [
+      "women",
+      "top",
+      "black & white",
+      "cotton",
+      "fashion"
+    ],
+    "styleTag": "casual",
+    "mainImageUrl": "/product_images/L0022/L0022_main.jpg",
+    "imageUrls": [
+      "/product_images/L0022/L0022_main.jpg",
+      "/product_images/L0022/L0022_detail.jpg"
+    ],
+    "status": "ACTIVE",
+    "availability": "IN_STOCK",
+    "featured": false,
+    "trending": false,
+    "recent": true,
+    "createdAt": "2026-03-20",
+    "rating": 4.2,
+    "badge": "New In",
+    "trustNotes": [
+      "Sanitized before dispatch",
+      "Visible wear noted in review",
+      "Easy return pickup"
+    ],
+    "colorTheme": [
+      "#8A5962",
+      "#F1DEE2"
+    ],
+    "source": "catalog"
+  },
+  {
+    "id": "L0023",
+    "listingId": "L0023",
+    "slug": "zara-mustard-yellow-cotton-mustard-yellow-top-women",
+    "name": "Mustard Yellow Top",
+    "productName": "Mustard Yellow Top",
+    "brand": "Zara",
+    "category": "Top",
+    "gender": "Women",
+    "material": "Cotton",
+    "color": "Mustard Yellow",
+    "size": "XS",
+    "availableSizes": [
+      "XS"
+    ],
+    "condition": "New",
+    "ageMonths": 17,
+    "price": 461,
+    "providerPrice": 461,
+    "originalPrice": 1999,
+    "shortDescription": "Mustard Yellow Top crafted from Cotton, offering style and comfort.",
+    "description": "This mustard yellow top made from cotton is designed for women wear, suitable for casual outings, festive occasions, and modern styling needs.",
+    "styleTags": [
+      "casual",
+      "minimal"
+    ],
+    "occasionTags": [
+      "party",
+      "outing"
+    ],
+    "searchKeywords": [
+      "women",
+      "top",
+      "mustard yellow",
+      "cotton",
+      "fashion"
+    ],
+    "styleTag": "casual",
+    "mainImageUrl": "/product_images/L0023/L0023_main.jpg",
+    "imageUrls": [
+      "/product_images/L0023/L0023_main.jpg",
+      "/product_images/L0023/L0023_detail.jpg"
+    ],
+    "status": "ACTIVE",
+    "availability": "IN_STOCK",
+    "featured": false,
+    "trending": false,
+    "recent": true,
+    "createdAt": "2026-03-20",
+    "rating": 4.8,
+    "badge": "New In",
+    "trustNotes": [
+      "Sanitized before dispatch",
+      "Freshly listed condition",
+      "Easy return pickup"
+    ],
+    "colorTheme": [
+      "#8A5962",
+      "#F1DEE2"
+    ],
+    "source": "catalog"
+  },
+  {
+    "id": "L0024",
+    "listingId": "L0024",
+    "slug": "uniqlo-black-cotton-black-top-unisex",
+    "name": "Black Top",
+    "productName": "Black Top",
+    "brand": "Uniqlo",
+    "category": "Top",
+    "gender": "Unisex",
+    "material": "Cotton",
+    "color": "Black",
+    "size": "XL",
+    "availableSizes": [
+      "XL"
+    ],
+    "condition": "Used",
+    "ageMonths": 18,
+    "price": 652,
+    "providerPrice": 652,
+    "originalPrice": 1999,
+    "shortDescription": "Black Top crafted from Cotton, offering style and comfort.",
+    "description": "This black top made from cotton is designed for unisex wear, suitable for casual outings, festive occasions, and modern styling needs.",
+    "styleTags": [
+      "ethnic",
+      "traditional"
+    ],
+    "occasionTags": [
+      "party",
+      "outing"
+    ],
+    "searchKeywords": [
+      "unisex",
+      "top",
+      "black",
+      "cotton",
+      "fashion"
+    ],
+    "styleTag": "ethnic",
+    "mainImageUrl": "/product_images/L0024/L0024_main.jpg",
+    "imageUrls": [
+      "/product_images/L0024/L0024_main.jpg",
+      "/product_images/L0024/L0024_detail.jpg"
+    ],
+    "status": "ACTIVE",
+    "availability": "IN_STOCK",
+    "featured": false,
+    "trending": true,
+    "recent": true,
+    "createdAt": "2026-03-20",
+    "rating": 4.3,
+    "badge": "Trending",
+    "trustNotes": [
+      "Sanitized before dispatch",
+      "Visible wear noted in review",
+      "Easy return pickup"
+    ],
+    "colorTheme": [
+      "#2B2B2B",
+      "#E9DDD1"
+    ],
+    "source": "catalog"
+  },
+  {
+    "id": "L0025",
+    "listingId": "L0025",
+    "slug": "uniqlo-blue-white-cotton-striped-blue-white-top-women",
+    "name": "Striped Blue & White Top",
+    "productName": "Striped Blue & White Top",
+    "brand": "Uniqlo",
+    "category": "Top",
+    "gender": "Women",
+    "material": "Cotton",
+    "color": "Blue & White",
+    "size": "S",
+    "availableSizes": [
+      "S"
+    ],
+    "condition": "Used",
+    "ageMonths": 2,
+    "price": 2055,
+    "providerPrice": 2055,
+    "originalPrice": 6999,
+    "shortDescription": "Blue & White Top crafted from Cotton, offering style and comfort.",
+    "description": "This blue & white top made from cotton is designed for women wear, suitable for casual outings, festive occasions, and modern styling needs.",
+    "styleTags": [
+      "formal",
+      "structured"
+    ],
+    "occasionTags": [
+      "party",
+      "outing"
+    ],
+    "searchKeywords": [
+      "women",
+      "top",
+      "blue & white",
+      "cotton",
+      "fashion"
+    ],
+    "styleTag": "formal",
+    "mainImageUrl": "/product_images/L0025/L0025_main.jpg",
+    "imageUrls": [
+      "/product_images/L0025/L0025_main.jpg",
+      "/product_images/L0025/L0025_detail.jpg"
+    ],
+    "status": "ACTIVE",
+    "availability": "IN_STOCK",
+    "featured": false,
+    "trending": false,
+    "recent": true,
+    "createdAt": "2026-03-20",
+    "rating": 4.2,
+    "badge": "New In",
+    "trustNotes": [
+      "Sanitized before dispatch",
+      "Visible wear noted in review",
+      "Easy return pickup"
+    ],
+    "colorTheme": [
+      "#8A5962",
+      "#F1DEE2"
+    ],
+    "source": "catalog"
+  },
+  {
+    "id": "L0026",
+    "listingId": "L0026",
+    "slug": "adidas-black-polyester-black-activewear-women",
+    "name": "Black Activewear",
+    "productName": "Black Activewear",
+    "brand": "Adidas",
+    "category": "Activewear",
+    "gender": "Women",
+    "material": "Polyester",
+    "color": "Black",
+    "size": "M",
+    "availableSizes": [
+      "M"
+    ],
+    "condition": "Like New",
+    "ageMonths": 15,
+    "price": 571,
+    "providerPrice": 571,
+    "originalPrice": 1999,
+    "shortDescription": "Black Activewear crafted from Polyester, offering style and comfort.",
+    "description": "This black activewear made from polyester is designed for women wear, suitable for casual outings, festive occasions, and modern styling needs.",
+    "styleTags": [
+      "festive",
+      "elegant"
+    ],
+    "occasionTags": [
+      "gym",
+      "training"
+    ],
+    "searchKeywords": [
+      "women",
+      "activewear",
+      "black",
+      "polyester",
+      "fashion"
+    ],
+    "styleTag": "festive",
+    "mainImageUrl": "/product_images/L0026/L0026_main.jpg",
+    "imageUrls": [
+      "/product_images/L0026/L0026_main.jpg",
+      "/product_images/L0026/L0026_detail.jpg"
+    ],
+    "status": "ACTIVE",
+    "availability": "IN_STOCK",
+    "featured": false,
+    "trending": false,
+    "recent": true,
+    "createdAt": "2026-03-20",
+    "rating": 4.6,
+    "badge": "New In",
+    "trustNotes": [
+      "Sanitized before dispatch",
+      "Condition reviewed",
+      "Easy return pickup"
+    ],
+    "colorTheme": [
+      "#2B2B2B",
+      "#E9DDD1"
+    ],
+    "source": "catalog"
+  },
+  {
+    "id": "L0027",
+    "listingId": "L0027",
+    "slug": "adidas-brown-polyester-brown-activewear-women",
+    "name": "Brown Activewear",
+    "productName": "Brown Activewear",
+    "brand": "Adidas",
+    "category": "Activewear",
+    "gender": "Women",
+    "material": "Polyester",
+    "color": "Brown",
+    "size": "S",
+    "availableSizes": [
+      "S"
+    ],
+    "condition": "New",
+    "ageMonths": 13,
+    "price": 1723,
+    "providerPrice": 1723,
+    "originalPrice": 4999,
+    "shortDescription": "Brown Activewear crafted from Polyester, offering style and comfort.",
+    "description": "This brown activewear made from polyester is designed for women wear, suitable for casual outings, festive occasions, and modern styling needs.",
+    "styleTags": [
+      "festive",
+      "elegant"
+    ],
+    "occasionTags": [
+      "gym",
+      "training"
+    ],
+    "searchKeywords": [
+      "women",
+      "activewear",
+      "brown",
+      "polyester",
+      "fashion"
+    ],
+    "styleTag": "festive",
+    "mainImageUrl": "/product_images/L0027/L0027_main.jpg",
+    "imageUrls": [
+      "/product_images/L0027/L0027_main.jpg",
+      "/product_images/L0027/L0027_detail.jpg"
+    ],
+    "status": "ACTIVE",
+    "availability": "IN_STOCK",
+    "featured": false,
+    "trending": false,
+    "recent": true,
+    "createdAt": "2026-03-20",
+    "rating": 4.8,
+    "badge": "New In",
+    "trustNotes": [
+      "Sanitized before dispatch",
+      "Freshly listed condition",
+      "Easy return pickup"
+    ],
+    "colorTheme": [
+      "#7A5A46",
+      "#E8D9CC"
+    ],
+    "source": "catalog"
+  },
+  {
+    "id": "L0028",
+    "listingId": "L0028",
+    "slug": "puma-black-cotton-black-tank-activewear-men",
+    "name": "Black Tank Activewear",
+    "productName": "Black Tank Activewear",
+    "brand": "Puma",
+    "category": "Activewear",
+    "gender": "Men",
+    "material": "Cotton",
+    "color": "Black",
+    "size": "M",
+    "availableSizes": [
+      "M"
+    ],
+    "condition": "Like New",
+    "ageMonths": 6,
+    "price": 975,
+    "providerPrice": 975,
+    "originalPrice": 3499,
+    "shortDescription": "Black Activewear crafted from Cotton, offering style and comfort.",
+    "description": "This black activewear made from cotton is designed for men wear, suitable for casual outings, festive occasions, and modern styling needs.",
+    "styleTags": [
+      "festive",
+      "elegant"
+    ],
+    "occasionTags": [
+      "gym",
+      "training"
+    ],
+    "searchKeywords": [
+      "men",
+      "activewear",
+      "black",
+      "cotton",
+      "fashion"
+    ],
+    "styleTag": "festive",
+    "mainImageUrl": "/product_images/L0028/L0028_main.jpg",
+    "imageUrls": [
+      "/product_images/L0028/L0028_main.jpg",
+      "/product_images/L0028/L0028_detail.jpg"
+    ],
+    "status": "ACTIVE",
+    "availability": "IN_STOCK",
+    "featured": false,
+    "trending": false,
+    "recent": true,
+    "createdAt": "2026-03-20",
+    "rating": 4.6,
+    "badge": "New In",
+    "trustNotes": [
+      "Sanitized before dispatch",
+      "Condition reviewed",
+      "Easy return pickup"
+    ],
+    "colorTheme": [
+      "#2B2B2B",
+      "#E9DDD1"
+    ],
+    "source": "catalog"
+  },
+  {
+    "id": "L0029",
+    "listingId": "L0029",
+    "slug": "adidas-black-a-white-polyester-black-white-activewear-men",
+    "name": "Black & White Activewear",
+    "productName": "Black & White Activewear",
+    "brand": "Adidas",
+    "category": "Activewear",
+    "gender": "Men",
+    "material": "Polyester",
+    "color": "Black a& White",
+    "size": "M",
+    "availableSizes": [
+      "M"
+    ],
+    "condition": "Like New",
+    "ageMonths": 15,
+    "price": 571,
+    "providerPrice": 571,
+    "originalPrice": 1999,
+    "shortDescription": "Black a& White Activewear crafted from Polyester, offering style and comfort.",
+    "description": "This black a& white activewear made from polyester is designed for men wear, suitable for casual outings, festive occasions, and modern styling needs.",
+    "styleTags": [
+      "festive",
+      "elegant"
+    ],
+    "occasionTags": [
+      "gym",
+      "training"
+    ],
+    "searchKeywords": [
+      "men",
+      "activewear",
+      "black a& white",
+      "polyester",
+      "fashion"
+    ],
+    "styleTag": "festive",
+    "mainImageUrl": "/product_images/L0029/L0029_main.jpg",
+    "imageUrls": [
+      "/product_images/L0029/L0029_main.jpg",
+      "/product_images/L0029/L0029_detail.jpg"
+    ],
+    "status": "ACTIVE",
+    "availability": "IN_STOCK",
+    "featured": false,
+    "trending": false,
+    "recent": true,
+    "createdAt": "2026-03-20",
+    "rating": 4.6,
+    "badge": "New In",
+    "trustNotes": [
+      "Sanitized before dispatch",
+      "Condition reviewed",
+      "Easy return pickup"
+    ],
+    "colorTheme": [
+      "#6C584C",
+      "#EADFD5"
+    ],
+    "source": "catalog"
+  },
+  {
+    "id": "L0030",
+    "listingId": "L0030",
+    "slug": "nike-blue-polyester-blue-activewear-men",
+    "name": "Blue Activewear",
+    "productName": "Blue Activewear",
+    "brand": "Nike",
+    "category": "Activewear",
+    "gender": "Men",
+    "material": "Polyester",
+    "color": "Blue",
+    "size": "XL",
+    "availableSizes": [
+      "XL"
+    ],
+    "condition": "Used",
+    "ageMonths": 14,
+    "price": 1803,
+    "providerPrice": 1803,
+    "originalPrice": 6999,
+    "shortDescription": "Blue Activewear crafted from Polyester, offering style and comfort.",
+    "description": "This blue activewear made from polyester is designed for men wear, suitable for casual outings, festive occasions, and modern styling needs.",
+    "styleTags": [
+      "casual",
+      "minimal"
+    ],
+    "occasionTags": [
+      "gym",
+      "training"
+    ],
+    "searchKeywords": [
+      "men",
+      "activewear",
+      "blue",
+      "polyester",
+      "fashion"
+    ],
+    "styleTag": "casual",
+    "mainImageUrl": "/product_images/L0030/L0030_main.jpg",
+    "imageUrls": [
+      "/product_images/L0030/L0030_main.jpg",
+      "/product_images/L0030/L0030_detail.jpg"
+    ],
+    "status": "ACTIVE",
+    "availability": "IN_STOCK",
+    "featured": false,
+    "trending": false,
+    "recent": true,
+    "createdAt": "2026-03-20",
+    "rating": 4.2,
+    "badge": "New In",
+    "trustNotes": [
+      "Sanitized before dispatch",
+      "Visible wear noted in review",
+      "Easy return pickup"
+    ],
+    "colorTheme": [
+      "#355C7D",
+      "#D9E5F0"
+    ],
+    "source": "catalog"
+  },
+  {
+    "id": "L0031",
+    "listingId": "L0031",
+    "slug": "biba-red-silk-red-saree-women",
+    "name": "Red Saree",
+    "productName": "Red Saree",
+    "brand": "Biba",
+    "category": "Saree",
+    "gender": "Women",
+    "material": "Silk",
+    "color": "Red",
+    "size": "Free",
+    "availableSizes": [],
+    "condition": "New",
+    "ageMonths": 14,
+    "price": 2425,
+    "providerPrice": 2425,
+    "originalPrice": 6999,
+    "shortDescription": "Red Saree crafted from Silk, offering style and comfort.",
+    "description": "This red saree made from silk is designed for women wear, suitable for casual outings, festive occasions, and modern styling needs.",
+    "styleTags": [
+      "sporty",
+      "active"
+    ],
+    "occasionTags": [
+      "wedding",
+      "festive"
+    ],
+    "searchKeywords": [
+      "women",
+      "saree",
+      "red",
+      "silk",
+      "fashion"
+    ],
+    "styleTag": "sporty",
+    "mainImageUrl": "/product_images/L0031/L0031_main.jpg",
+    "imageUrls": [
+      "/product_images/L0031/L0031_main.jpg"
+    ],
+    "status": "ACTIVE",
+    "availability": "IN_STOCK",
+    "featured": false,
+    "trending": false,
+    "recent": true,
+    "createdAt": "2026-03-20",
+    "rating": 4.8,
+    "badge": "New In",
+    "trustNotes": [
+      "Sanitized before dispatch",
+      "Freshly listed condition",
+      "Easy return pickup"
+    ],
+    "colorTheme": [
+      "#7B1E2B",
+      "#EBD5D8"
+    ],
+    "source": "catalog"
+  },
+  {
+    "id": "L0032",
+    "listingId": "L0032",
+    "slug": "fabindia-pink-silk-pink-saree-women",
+    "name": "Pink Saree",
+    "productName": "Pink Saree",
+    "brand": "FabIndia",
+    "category": "Saree",
+    "gender": "Women",
+    "material": "Silk",
+    "color": "Pink",
+    "size": "Free",
+    "availableSizes": [],
+    "condition": "Like New",
+    "ageMonths": 7,
+    "price": 1159,
+    "providerPrice": 1159,
+    "originalPrice": 3499,
+    "shortDescription": "Pink Saree crafted from Silk, offering style and comfort.",
+    "description": "This pink saree made from silk is designed for women wear, suitable for casual outings, festive occasions, and modern styling needs.",
+    "styleTags": [
+      "casual",
+      "minimal"
+    ],
+    "occasionTags": [
+      "wedding",
+      "festive"
+    ],
+    "searchKeywords": [
+      "women",
+      "saree",
+      "pink",
+      "silk",
+      "fashion"
+    ],
+    "styleTag": "casual",
+    "mainImageUrl": "/product_images/L0032/L0032_main.jpg",
+    "imageUrls": [
+      "/product_images/L0032/L0032_main.jpg"
+    ],
+    "status": "ACTIVE",
+    "availability": "OUT_OF_STOCK",
+    "featured": false,
+    "trending": false,
+    "recent": true,
+    "createdAt": "2026-03-20",
+    "rating": 4.6,
+    "badge": "New In",
+    "trustNotes": [
+      "Sanitized before dispatch",
+      "Condition reviewed",
+      "Easy return pickup"
+    ],
+    "colorTheme": [
+      "#B56A7A",
+      "#F3DFE5"
+    ],
+    "source": "catalog"
+  },
+  {
+    "id": "L0033",
+    "listingId": "L0033",
+    "slug": "biba-blue-cotton-blue-saree-women",
+    "name": "Blue Saree",
+    "productName": "Blue Saree",
+    "brand": "Biba",
+    "category": "Saree",
+    "gender": "Women",
+    "material": "Cotton",
+    "color": "Blue",
+    "size": "Free",
+    "availableSizes": [],
+    "condition": "New",
+    "ageMonths": 10,
+    "price": 453,
+    "providerPrice": 453,
+    "originalPrice": 1999,
+    "shortDescription": "Blue Saree crafted from Cotton, offering style and comfort.",
+    "description": "This blue saree made from cotton is designed for women wear, suitable for casual outings, festive occasions, and modern styling needs.",
+    "styleTags": [
+      "festive",
+      "elegant"
+    ],
+    "occasionTags": [
+      "wedding",
+      "festive"
+    ],
+    "searchKeywords": [
+      "women",
+      "saree",
+      "blue",
+      "cotton",
+      "fashion"
+    ],
+    "styleTag": "festive",
+    "mainImageUrl": "/product_images/L0033/L0033_main.jpg",
+    "imageUrls": [
+      "/product_images/L0033/L0033_main.jpg"
+    ],
+    "status": "ACTIVE",
+    "availability": "IN_STOCK",
+    "featured": false,
+    "trending": false,
+    "recent": true,
+    "createdAt": "2026-03-20",
+    "rating": 4.8,
+    "badge": "New In",
+    "trustNotes": [
+      "Sanitized before dispatch",
+      "Freshly listed condition",
+      "Easy return pickup"
+    ],
+    "colorTheme": [
+      "#355C7D",
+      "#D9E5F0"
+    ],
+    "source": "catalog"
+  },
+  {
+    "id": "L0034",
+    "listingId": "L0034",
+    "slug": "fabindia-green-cotton-green-saree-women",
+    "name": "Green Saree",
+    "productName": "Green Saree",
+    "brand": "FabIndia",
+    "category": "Saree",
+    "gender": "Women",
+    "material": "Cotton",
+    "color": "Green",
+    "size": "Free",
+    "availableSizes": [],
+    "condition": "New",
+    "ageMonths": 3,
+    "price": 515,
+    "providerPrice": 515,
+    "originalPrice": 1999,
+    "shortDescription": "Green Saree crafted from Cotton, offering style and comfort.",
+    "description": "This green saree made from cotton is designed for women wear, suitable for casual outings, festive occasions, and modern styling needs.",
+    "styleTags": [
+      "festive",
+      "elegant"
+    ],
+    "occasionTags": [
+      "wedding",
+      "festive"
+    ],
+    "searchKeywords": [
+      "women",
+      "saree",
+      "green",
+      "cotton",
+      "fashion"
+    ],
+    "styleTag": "festive",
+    "mainImageUrl": "/product_images/L0034/L0034_main.jpg",
+    "imageUrls": [
+      "/product_images/L0034/L0034_main.jpg"
+    ],
+    "status": "ACTIVE",
+    "availability": "IN_STOCK",
+    "featured": false,
+    "trending": false,
+    "recent": true,
+    "createdAt": "2026-03-20",
+    "rating": 4.8,
+    "badge": "New In",
+    "trustNotes": [
+      "Sanitized before dispatch",
+      "Freshly listed condition",
+      "Easy return pickup"
+    ],
+    "colorTheme": [
+      "#58745A",
+      "#DFE9DD"
+    ],
+    "source": "catalog"
+  },
+  {
+    "id": "L0035",
+    "listingId": "L0035",
+    "slug": "fabindia-maroon-silk-maroon-saree-women",
+    "name": "Maroon Saree",
+    "productName": "Maroon Saree",
+    "brand": "FabIndia",
+    "category": "Saree",
+    "gender": "Women",
+    "material": "Silk",
+    "color": "Maroon",
+    "size": "Free",
+    "availableSizes": [],
+    "condition": "Like New",
+    "ageMonths": 15,
+    "price": 977,
+    "providerPrice": 977,
+    "originalPrice": 3499,
+    "shortDescription": "Maroon Saree crafted from Silk, offering style and comfort.",
+    "description": "This maroon saree made from silk is designed for women wear, suitable for casual outings, festive occasions, and modern styling needs.",
+    "styleTags": [
+      "casual",
+      "minimal"
+    ],
+    "occasionTags": [
+      "wedding",
+      "festive"
+    ],
+    "searchKeywords": [
+      "women",
+      "saree",
+      "maroon",
+      "silk",
+      "fashion"
+    ],
+    "styleTag": "casual",
+    "mainImageUrl": "/product_images/L0035/L0035_main.jpg",
+    "imageUrls": [
+      "/product_images/L0035/L0035_main.jpg"
+    ],
+    "status": "ACTIVE",
+    "availability": "IN_STOCK",
+    "featured": false,
+    "trending": false,
+    "recent": true,
+    "createdAt": "2026-03-20",
+    "rating": 4.6,
+    "badge": "New In",
+    "trustNotes": [
+      "Sanitized before dispatch",
+      "Condition reviewed",
+      "Easy return pickup"
+    ],
+    "colorTheme": [
+      "#6A2433",
+      "#E8D6DA"
+    ],
+    "source": "catalog"
+  },
+  {
+    "id": "L0036",
+    "listingId": "L0036",
+    "slug": "biba-blue-cotton-blue-kurta-men-men",
+    "name": "Blue Kurta Men",
+    "productName": "Blue Kurta Men",
+    "brand": "Biba",
+    "category": "Kurta",
+    "gender": "Men",
+    "material": "Cotton",
+    "color": "Blue",
+    "size": "M",
+    "availableSizes": [
+      "M"
+    ],
+    "condition": "Like New",
+    "ageMonths": 3,
+    "price": 1375,
+    "providerPrice": 1375,
+    "originalPrice": 4999,
+    "shortDescription": "Blue Kurta  crafted from Cotton, offering style and comfort.",
+    "description": "This blue kurta  made from cotton is designed for men wear, suitable for casual outings, festive occasions, and modern styling needs.",
+    "styleTags": [
+      "formal",
+      "structured"
+    ],
+    "occasionTags": [
+      "party",
+      "outing"
+    ],
+    "searchKeywords": [
+      "men",
+      "kurta",
+      "blue",
+      "cotton",
+      "fashion"
+    ],
+    "styleTag": "formal",
+    "mainImageUrl": "/product_images/L0036/L0036_main.jpg",
+    "imageUrls": [
+      "/product_images/L0036/L0036_main.jpg",
+      "/product_images/L0036/L0036_detail.jpg"
+    ],
+    "status": "ACTIVE",
+    "availability": "IN_STOCK",
+    "featured": false,
+    "trending": true,
+    "recent": true,
+    "createdAt": "2026-03-20",
+    "rating": 4.7,
+    "badge": "Trending",
+    "trustNotes": [
+      "Sanitized before dispatch",
+      "Condition reviewed",
+      "Easy return pickup"
+    ],
+    "colorTheme": [
+      "#355C7D",
+      "#D9E5F0"
+    ],
+    "source": "catalog"
+  },
+  {
+    "id": "L0037",
+    "listingId": "L0037",
+    "slug": "biba-pink-cotton-pink-kurta-women-women",
+    "name": "Pink Kurta Women",
+    "productName": "Pink Kurta Women",
+    "brand": "Biba",
+    "category": "Kurta",
+    "gender": "Women",
+    "material": "Cotton",
+    "color": "Pink",
+    "size": "XL",
+    "availableSizes": [
+      "XL"
+    ],
+    "condition": "New",
+    "ageMonths": 7,
+    "price": 2072,
+    "providerPrice": 2072,
+    "originalPrice": 6999,
+    "shortDescription": "Pink Kurta  crafted from Cotton, offering style and comfort.",
+    "description": "This pink kurta  made from cotton is designed for women wear, suitable for casual outings, festive occasions, and modern styling needs.",
+    "styleTags": [
+      "festive",
+      "elegant"
+    ],
+    "occasionTags": [
+      "party",
+      "outing"
+    ],
+    "searchKeywords": [
+      "women",
+      "kurta",
+      "pink",
+      "cotton",
+      "fashion"
+    ],
+    "styleTag": "festive",
+    "mainImageUrl": "/product_images/L0037/L0037_main.jpg",
+    "imageUrls": [
+      "/product_images/L0037/L0037_main.jpg",
+      "/product_images/L0037/L0037_detail.jpg"
+    ],
+    "status": "ACTIVE",
+    "availability": "IN_STOCK",
+    "featured": false,
+    "trending": false,
+    "recent": true,
+    "createdAt": "2026-03-20",
+    "rating": 4.8,
+    "badge": "New In",
+    "trustNotes": [
+      "Sanitized before dispatch",
+      "Freshly listed condition",
+      "Easy return pickup"
+    ],
+    "colorTheme": [
+      "#B56A7A",
+      "#F3DFE5"
+    ],
+    "source": "catalog"
+  },
+  {
+    "id": "L0038",
+    "listingId": "L0038",
+    "slug": "biba-green-cotton-green-kurta-women-women",
+    "name": "Green Kurta Women",
+    "productName": "Green Kurta Women",
+    "brand": "Biba",
+    "category": "Kurta",
+    "gender": "Women",
+    "material": "Cotton",
+    "color": "Green",
+    "size": "XS",
+    "availableSizes": [
+      "XS"
+    ],
+    "condition": "Used",
+    "ageMonths": 7,
+    "price": 1510,
+    "providerPrice": 1510,
+    "originalPrice": 6999,
+    "shortDescription": "Green Kurta crafted from Cotton, offering style and comfort.",
+    "description": "This green kurta made from cotton is designed for women wear, suitable for casual outings, festive occasions, and modern styling needs.",
+    "styleTags": [
+      "festive",
+      "elegant"
+    ],
+    "occasionTags": [
+      "party",
+      "outing"
+    ],
+    "searchKeywords": [
+      "women",
+      "kurta",
+      "green",
+      "cotton",
+      "fashion"
+    ],
+    "styleTag": "festive",
+    "mainImageUrl": "/product_images/L0038/L0038_main.jpg",
+    "imageUrls": [
+      "/product_images/L0038/L0038_main.jpg",
+      "/product_images/L0038/L0038_detail.jpg"
+    ],
+    "status": "ACTIVE",
+    "availability": "IN_STOCK",
+    "featured": false,
+    "trending": false,
+    "recent": true,
+    "createdAt": "2026-03-20",
+    "rating": 4.2,
+    "badge": "New In",
+    "trustNotes": [
+      "Sanitized before dispatch",
+      "Visible wear noted in review",
+      "Easy return pickup"
+    ],
+    "colorTheme": [
+      "#58745A",
+      "#DFE9DD"
+    ],
+    "source": "catalog"
+  },
+  {
+    "id": "L0039",
+    "listingId": "L0039",
+    "slug": "biba-white-cotton-white-design-kurti-women",
+    "name": "White Design Kurti",
+    "productName": "White Design Kurti",
+    "brand": "Biba",
+    "category": "Ethnic Wear",
+    "gender": "Women",
+    "material": "Cotton",
+    "color": "White",
+    "size": "XS",
+    "availableSizes": [
+      "XS"
+    ],
+    "condition": "New",
+    "ageMonths": 16,
+    "price": 1416,
+    "providerPrice": 1416,
+    "originalPrice": 4999,
+    "shortDescription": "White Ethnic Wear crafted from Cotton, offering style and comfort.",
+    "description": "This white ethnic wear made from cotton is designed for women wear, suitable for casual outings, festive occasions, and modern styling needs.",
+    "styleTags": [
+      "sporty",
+      "active"
+    ],
+    "occasionTags": [
+      "party",
+      "outing"
+    ],
+    "searchKeywords": [
+      "women",
+      "ethnic wear",
+      "white",
+      "cotton",
+      "fashion"
+    ],
+    "styleTag": "sporty",
+    "mainImageUrl": "/product_images/L0039/L0039_main.jpg",
+    "imageUrls": [
+      "/product_images/L0039/L0039_main.jpg",
+      "/product_images/L0039/L0039_detail.jpg"
+    ],
+    "status": "ACTIVE",
+    "availability": "IN_STOCK",
+    "featured": false,
+    "trending": false,
+    "recent": true,
+    "createdAt": "2026-03-20",
+    "rating": 4.8,
+    "badge": "New In",
+    "trustNotes": [
+      "Sanitized before dispatch",
+      "Freshly listed condition",
+      "Easy return pickup"
+    ],
+    "colorTheme": [
+      "#C9B8A9",
+      "#FFF8F2"
+    ],
+    "source": "catalog"
+  },
+  {
+    "id": "L0040",
+    "listingId": "L0040",
+    "slug": "fabindia-white-cotton-white-plain-kurta-women-women",
+    "name": "White Plain Kurta Women",
+    "productName": "White Plain Kurta Women",
+    "brand": "FabIndia",
+    "category": "Kurta",
+    "gender": "Women",
+    "material": "Cotton",
+    "color": "White",
+    "size": "M",
+    "availableSizes": [
+      "M"
+    ],
+    "condition": "Used",
+    "ageMonths": 14,
+    "price": 804,
+    "providerPrice": 804,
+    "originalPrice": 2499,
+    "shortDescription": "White Kurta crafted from Cotton, offering style and comfort.",
+    "description": "This white kurta made from cotton is designed for women wear, suitable for casual outings, festive occasions, and modern styling needs.",
+    "styleTags": [
+      "formal",
+      "structured"
+    ],
+    "occasionTags": [
+      "party",
+      "outing"
+    ],
+    "searchKeywords": [
+      "women",
+      "kurta",
+      "white",
+      "cotton",
+      "fashion"
+    ],
+    "styleTag": "formal",
+    "mainImageUrl": "/product_images/L0040/L0040_main.jpg",
+    "imageUrls": [
+      "/product_images/L0040/L0040_main.jpg",
+      "/product_images/L0040/L0040_detail.jpg"
+    ],
+    "status": "ACTIVE",
+    "availability": "IN_STOCK",
+    "featured": false,
+    "trending": false,
+    "recent": true,
+    "createdAt": "2026-03-20",
+    "rating": 4.2,
+    "badge": "New In",
+    "trustNotes": [
+      "Sanitized before dispatch",
+      "Visible wear noted in review",
+      "Easy return pickup"
+    ],
+    "colorTheme": [
+      "#C9B8A9",
+      "#FFF8F2"
+    ],
+    "source": "catalog"
+  },
+  {
+    "id": "L0041",
+    "listingId": "L0041",
+    "slug": "fabindia-blue-silk-blue-lehenga-women",
+    "name": "Blue Lehenga",
+    "productName": "Blue Lehenga",
+    "brand": "FabIndia",
+    "category": "Lehenga",
+    "gender": "Women",
+    "material": "Silk",
+    "color": "Blue",
+    "size": "L",
+    "availableSizes": [
+      "L"
+    ],
+    "condition": "Used",
+    "ageMonths": 11,
+    "price": 836,
+    "providerPrice": 836,
+    "originalPrice": 3499,
+    "shortDescription": "Blue Lehenga crafted from Silk, offering style and comfort.",
+    "description": "This blue lehenga made from silk is designed for women wear, suitable for casual outings, festive occasions, and modern styling needs.",
+    "styleTags": [
+      "casual",
+      "minimal"
+    ],
+    "occasionTags": [
+      "wedding",
+      "festive"
+    ],
+    "searchKeywords": [
+      "women",
+      "lehenga",
+      "blue",
+      "silk",
+      "fashion"
+    ],
+    "styleTag": "casual",
+    "mainImageUrl": "/product_images/L0041/L0041_main.jpg",
+    "imageUrls": [
+      "/product_images/L0041/L0041_main.jpg",
+      "/product_images/L0041/L0041_detail.jpg"
+    ],
+    "status": "ACTIVE",
+    "availability": "IN_STOCK",
+    "featured": false,
+    "trending": false,
+    "recent": true,
+    "createdAt": "2026-03-20",
+    "rating": 4.2,
+    "badge": "New In",
+    "trustNotes": [
+      "Sanitized before dispatch",
+      "Visible wear noted in review",
+      "Easy return pickup"
+    ],
+    "colorTheme": [
+      "#355C7D",
+      "#D9E5F0"
+    ],
+    "source": "catalog"
+  },
+  {
+    "id": "L0042",
+    "listingId": "L0042",
+    "slug": "biba-cream-white-cotton-cream-white-lehenga-women",
+    "name": "Cream White Lehenga",
+    "productName": "Cream White Lehenga",
+    "brand": "Biba",
+    "category": "Lehenga",
+    "gender": "Women",
+    "material": "Cotton",
+    "color": "Cream White",
+    "size": "XL",
+    "availableSizes": [
+      "XL"
+    ],
+    "condition": "Like New",
+    "ageMonths": 18,
+    "price": 521,
+    "providerPrice": 521,
+    "originalPrice": 1999,
+    "shortDescription": "Cream White Lehenga crafted from Cotton, offering style and comfort.",
+    "description": "This cream white lehenga made from cotton is designed for women wear, suitable for casual outings, festive occasions, and modern styling needs.",
+    "styleTags": [
+      "ethnic",
+      "traditional"
+    ],
+    "occasionTags": [
+      "wedding",
+      "festive"
+    ],
+    "searchKeywords": [
+      "women",
+      "lehenga",
+      "cream white",
+      "cotton",
+      "fashion"
+    ],
+    "styleTag": "ethnic",
+    "mainImageUrl": "/product_images/L0042/L0042_main.jpg",
+    "imageUrls": [
+      "/product_images/L0042/L0042_main.jpg",
+      "/product_images/L0042/L0042_detail.jpg"
+    ],
+    "status": "ACTIVE",
+    "availability": "IN_STOCK",
+    "featured": false,
+    "trending": false,
+    "recent": true,
+    "createdAt": "2026-03-20",
+    "rating": 4.6,
+    "badge": "New In",
+    "trustNotes": [
+      "Sanitized before dispatch",
+      "Condition reviewed",
+      "Easy return pickup"
+    ],
+    "colorTheme": [
+      "#8A5962",
+      "#F1DEE2"
+    ],
+    "source": "catalog"
+  },
+  {
+    "id": "L0043",
+    "listingId": "L0043",
+    "slug": "biba-dark-purple-cotton-dark-purple-lehenga-women",
+    "name": "Dark Purple Lehenga",
+    "productName": "Dark Purple Lehenga",
+    "brand": "Biba",
+    "category": "Lehenga",
+    "gender": "Women",
+    "material": "Cotton",
+    "color": "Dark Purple",
+    "size": "M",
+    "availableSizes": [
+      "M"
+    ],
+    "condition": "Used",
+    "ageMonths": 7,
+    "price": 914,
+    "providerPrice": 914,
+    "originalPrice": 3499,
+    "shortDescription": "Dark Purple Lehenga crafted from Cotton, offering style and comfort.",
+    "description": "This dark purple lehenga made from cotton is designed for women wear, suitable for casual outings, festive occasions, and modern styling needs.",
+    "styleTags": [
+      "ethnic",
+      "traditional"
+    ],
+    "occasionTags": [
+      "wedding",
+      "festive"
+    ],
+    "searchKeywords": [
+      "women",
+      "lehenga",
+      "dark purple",
+      "cotton",
+      "fashion"
+    ],
+    "styleTag": "ethnic",
+    "mainImageUrl": "/product_images/L0043/L0043_main.jpg",
+    "imageUrls": [
+      "/product_images/L0043/L0043_main.jpg",
+      "/product_images/L0043/L0043_detail.jpg"
+    ],
+    "status": "ACTIVE",
+    "availability": "OUT_OF_STOCK",
+    "featured": false,
+    "trending": true,
+    "recent": true,
+    "createdAt": "2026-03-20",
+    "rating": 4.3,
+    "badge": "Trending",
+    "trustNotes": [
+      "Sanitized before dispatch",
+      "Visible wear noted in review",
+      "Easy return pickup"
+    ],
+    "colorTheme": [
+      "#8A5962",
+      "#F1DEE2"
+    ],
+    "source": "catalog"
+  },
+  {
+    "id": "L0044",
+    "listingId": "L0044",
+    "slug": "fabindia-pink-silk-pink-lehenga-women",
+    "name": "Pink Lehenga",
+    "productName": "Pink Lehenga",
+    "brand": "FabIndia",
+    "category": "Lehenga",
+    "gender": "Women",
+    "material": "Silk",
+    "color": "Pink",
+    "size": "XS",
+    "availableSizes": [
+      "XS"
+    ],
+    "condition": "Used",
+    "ageMonths": 17,
+    "price": 667,
+    "providerPrice": 667,
+    "originalPrice": 1999,
+    "shortDescription": "Pink Lehenga crafted from Silk, offering style and comfort.",
+    "description": "This pink lehenga made from silk is designed for women wear, suitable for casual outings, festive occasions, and modern styling needs.",
+    "styleTags": [
+      "sporty",
+      "active"
+    ],
+    "occasionTags": [
+      "wedding",
+      "festive"
+    ],
+    "searchKeywords": [
+      "women",
+      "lehenga",
+      "pink",
+      "silk",
+      "fashion"
+    ],
+    "styleTag": "sporty",
+    "mainImageUrl": "/product_images/L0044/L0044_main.jpg",
+    "imageUrls": [
+      "/product_images/L0044/L0044_main.jpg",
+      "/product_images/L0044/L0044_detail.jpg"
+    ],
+    "status": "ACTIVE",
+    "availability": "IN_STOCK",
+    "featured": false,
+    "trending": false,
+    "recent": true,
+    "createdAt": "2026-03-20",
+    "rating": 4.2,
+    "badge": "New In",
+    "trustNotes": [
+      "Sanitized before dispatch",
+      "Visible wear noted in review",
+      "Easy return pickup"
+    ],
+    "colorTheme": [
+      "#B56A7A",
+      "#F3DFE5"
+    ],
+    "source": "catalog"
+  },
+  {
+    "id": "L0045",
+    "listingId": "L0045",
+    "slug": "biba-coral-cotton-coral-lehenga-women",
+    "name": "Coral Lehenga",
+    "productName": "Coral Lehenga",
+    "brand": "Biba",
+    "category": "Lehenga",
+    "gender": "Women",
+    "material": "Cotton",
+    "color": "Coral",
+    "size": "XS",
+    "availableSizes": [
+      "XS"
+    ],
+    "condition": "New",
+    "ageMonths": 8,
+    "price": 1188,
+    "providerPrice": 1188,
+    "originalPrice": 4999,
+    "shortDescription": "Coral Lehenga crafted from Cotton, offering style and comfort.",
+    "description": "This coral lehenga made from cotton is designed for women wear, suitable for casual outings, festive occasions, and modern styling needs.",
+    "styleTags": [
+      "ethnic",
+      "traditional"
+    ],
+    "occasionTags": [
+      "wedding",
+      "festive"
+    ],
+    "searchKeywords": [
+      "women",
+      "lehenga",
+      "coral",
+      "cotton",
+      "fashion"
+    ],
+    "styleTag": "ethnic",
+    "mainImageUrl": "/product_images/L0045/L0045_main.jpg",
+    "imageUrls": [
+      "/product_images/L0045/L0045_main.jpg",
+      "/product_images/L0045/L0045_detail.jpg"
+    ],
+    "status": "ACTIVE",
+    "availability": "IN_STOCK",
+    "featured": false,
+    "trending": false,
+    "recent": true,
+    "createdAt": "2026-03-20",
+    "rating": 4.8,
+    "badge": "New In",
+    "trustNotes": [
+      "Sanitized before dispatch",
+      "Freshly listed condition",
+      "Easy return pickup"
+    ],
+    "colorTheme": [
+      "#8A5962",
+      "#F1DEE2"
+    ],
+    "source": "catalog"
+  }
+]
