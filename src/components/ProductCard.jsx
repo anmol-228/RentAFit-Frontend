@@ -2,6 +2,15 @@ import { Link } from 'react-router-dom';
 import ProductVisual from './ProductVisual';
 import { formatCurrency } from '../utils/formatters';
 
+function ProductCardArrowIcon() {
+  return (
+    <svg className="product-card__cta-icon" viewBox="0 0 16 16" fill="none" aria-hidden="true">
+      <path d="M5 11L11 5" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round" />
+      <path d="M6.5 5H11V9.5" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round" />
+    </svg>
+  );
+}
+
 function ProductCard({ product, compact = false }) {
   return (
     <article className={`product-card ${compact ? 'product-card--compact' : ''}`}>
@@ -28,7 +37,8 @@ function ProductCard({ product, compact = false }) {
             <div className="product-card__subtext">Size {product.size} · {product.gender}</div>
           </div>
           <Link to={`/products/${product.id}`} className="product-card__cta">
-            View piece
+            <span>View piece</span>
+            <ProductCardArrowIcon />
           </Link>
         </div>
       </div>

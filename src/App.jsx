@@ -1,3 +1,4 @@
+import { useLayoutEffect } from 'react';
 import { Navigate, Route, Routes, useLocation } from 'react-router-dom';
 import LandingPage from './pages/LandingPage';
 import SignupPage from './pages/Auth/SignupPage';
@@ -21,31 +22,43 @@ function LenderEntryRoute() {
   return <Navigate to="/lender/dashboard" replace />;
 }
 
+function RouteScrollReset({ pathname, search }) {
+  useLayoutEffect(() => {
+    if (typeof window === 'undefined') return;
+    window.scrollTo({ top: 0, left: 0, behavior: 'auto' });
+  }, [pathname, search]);
+
+  return null;
+}
+
 function App() {
   const location = useLocation();
 
   return (
-    <div className="route-shell">
-      <div key={`${location.pathname}${location.search}`} className="route-stage">
-        <Routes location={location}>
-          <Route path="/" element={<LandingPage />} />
-          <Route path="/about" element={<AboutPage />} />
-          <Route path="/products" element={<ProductDisplayPage />} />
-          <Route path="/products/:productId" element={<ProductDetailPage />} />
-          <Route path="/cart" element={<CartPage />} />
-          <Route path="/orders" element={<OrdersPage />} />
-          <Route path="/faq" element={<FaqPage />} />
-          <Route path="/signup" element={<SignupPage />} />
-          <Route path="/login" element={<LoginPage />} />
-          <Route path="/lender" element={<LenderEntryRoute />} />
-          <Route path="/lender/dashboard" element={<LenderDashboardPage />} />
-          <Route path="/lender/upload" element={<UploadItemPage />} />
-          <Route path="/lender/price" element={<PriceResultPage />} />
-          <Route path="/renter/recommendations" element={<Navigate to="/products" replace />} />
-          <Route path="*" element={<Navigate to="/" replace />} />
-        </Routes>
+    <>
+      <RouteScrollReset pathname={location.pathname} search={location.search} />
+      <div className="route-shell">
+        <div key={`${location.pathname}${location.search}`} className="route-stage">
+          <Routes location={location}>
+            <Route path="/" element={<LandingPage />} />
+            <Route path="/about" element={<AboutPage />} />
+            <Route path="/products" element={<ProductDisplayPage />} />
+            <Route path="/products/:productId" element={<ProductDetailPage />} />
+            <Route path="/cart" element={<CartPage />} />
+            <Route path="/orders" element={<OrdersPage />} />
+            <Route path="/faq" element={<FaqPage />} />
+            <Route path="/signup" element={<SignupPage />} />
+            <Route path="/login" element={<LoginPage />} />
+            <Route path="/lender" element={<LenderEntryRoute />} />
+            <Route path="/lender/dashboard" element={<LenderDashboardPage />} />
+            <Route path="/lender/upload" element={<UploadItemPage />} />
+            <Route path="/lender/price" element={<PriceResultPage />} />
+            <Route path="/renter/recommendations" element={<Navigate to="/products" replace />} />
+            <Route path="*" element={<Navigate to="/" replace />} />
+          </Routes>
+        </div>
       </div>
-    </div>
+    </>
   );
 }
 

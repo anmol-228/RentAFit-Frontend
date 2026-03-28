@@ -3610,10 +3610,15 @@ body {
   color: rgba(17, 17, 17, 0.58);
 }
 
-.product-card__cta::after {
-  content: '↗';
-  font-size: 0.95rem;
-  line-height: 1;
+.product-card__cta-icon {
+  width: 0.92rem;
+  height: 0.92rem;
+  flex-shrink: 0;
+  transition: transform 0.2s ease;
+}
+
+.product-card:hover .product-card__cta-icon {
+  transform: translate3d(1px, -1px, 0);
 }
 
 .product-card:hover .product-card__cta {
