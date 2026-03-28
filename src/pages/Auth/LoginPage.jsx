@@ -38,20 +38,18 @@ function LoginPage() {
     <main className="auth-page min-vh-100">
       <div className="container-xxl py-4 py-lg-5 px-3 px-lg-4">
         <div className="auth-stage">
-          <section className="auth-stage__visual">
-            <img src={resolveAssetPath('/hero_banners/unisex_banner.jpg')} alt="Unisex rental editorial model" className="auth-stage__image" />
-            <div className="auth-stage__motion" aria-hidden="true">
-              <span className="auth-stage__glow auth-stage__glow--one" />
-              <span className="auth-stage__glow auth-stage__glow--two" />
-              <span className="auth-stage__chip auth-stage__chip--one">One account</span>
-              <span className="auth-stage__chip auth-stage__chip--two">Renter + lender</span>
-            </div>
+          <section className="auth-stage__visual auth-stage__visual--shared">
+            <img src={resolveAssetPath('/hero_banners/unisex_banner.jpg')} alt="Shared wardrobe editorial" className="auth-stage__image" />
+            <div className="auth-stage__veil" aria-hidden="true" />
+            <div className="auth-stage__orb auth-stage__orb--one" aria-hidden="true" />
+            <div className="auth-stage__orb auth-stage__orb--two" aria-hidden="true" />
+
             <div className="auth-stage__content">
               <div>
                 <Link to="/" className="brand-wordmark auth-stage__brand">Rent a Fit</Link>
                 <p className="eyebrow auth-stage__kicker mb-2">Welcome back</p>
-                <h1 className="section-title auth-stage__title mb-3">Sign in to continue renting, ordering, or managing listings.</h1>
-                <p className="auth-stage__copy mb-0">One account lets you move cleanly between the storefront and the lender workspace.</p>
+                <h1 className="section-title auth-stage__title mb-3">Return to your wardrobe in one login.</h1>
+                <p className="auth-stage__copy mb-0">One account keeps renting, ordering, and lender management inside the same calmer flow.</p>
               </div>
 
               <div className="auth-stage__notes">

@@ -14,6 +14,7 @@ const footerGroups = [
   {
     title: 'Platform',
     links: [
+      { label: 'About', path: '/about' },
       { label: 'FAQ', path: '/faq' },
       { label: 'Orders', path: '/orders' },
       { label: 'Cart', path: '/cart' },

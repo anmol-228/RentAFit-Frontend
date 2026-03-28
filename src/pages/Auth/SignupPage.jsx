@@ -35,20 +35,18 @@ function SignupPage() {
     <main className="auth-page min-vh-100">
       <div className="container-xxl py-4 py-lg-5 px-3 px-lg-4">
         <div className="auth-stage">
-          <section className="auth-stage__visual">
-            <img src={resolveAssetPath('/hero_banners/unisex_banner.jpg')} alt="Unisex rental editorial model" className="auth-stage__image" />
-            <div className="auth-stage__motion" aria-hidden="true">
-              <span className="auth-stage__glow auth-stage__glow--one" />
-              <span className="auth-stage__glow auth-stage__glow--two" />
-              <span className="auth-stage__chip auth-stage__chip--one">One account</span>
-              <span className="auth-stage__chip auth-stage__chip--two">Renter + lender</span>
-            </div>
+          <section className="auth-stage__visual auth-stage__visual--shared">
+            <img src={resolveAssetPath('/hero_banners/unisex_banner.jpg')} alt="Shared wardrobe editorial" className="auth-stage__image" />
+            <div className="auth-stage__veil" aria-hidden="true" />
+            <div className="auth-stage__orb auth-stage__orb--one" aria-hidden="true" />
+            <div className="auth-stage__orb auth-stage__orb--two" aria-hidden="true" />
+
             <div className="auth-stage__content">
               <div>
                 <Link to="/" className="brand-wordmark auth-stage__brand">Rent a Fit</Link>
                 <p className="eyebrow auth-stage__kicker mb-2">Create account</p>
-                <h1 className="section-title auth-stage__title mb-3">Create your account to rent, list, and manage fashion in one place.</h1>
-                <p className="auth-stage__copy mb-0">Start with the role that fits today and move across renter and lender flows without splitting the experience.</p>
+                <h1 className="section-title auth-stage__title mb-3">Create one account for both sides of the wardrobe.</h1>
+                <p className="auth-stage__copy mb-0">Start with the role that fits today, then move between renter and lender journeys without splitting the experience.</p>
               </div>
 
               <div className="auth-stage__notes">
@@ -56,6 +54,18 @@ function SignupPage() {
                   {starterNotes.map((item) => (
                     <div className="auth-stage__highlight" key={item}>{item}</div>
                   ))}
+                </div>
+
+                <div className="auth-stage__credential-card auth-stage__credential-card--compact">
+                  <p className="eyebrow mb-2">How the account works</p>
+                  <div className="auth-stage__credential-row auth-stage__credential-row--stacked">
+                    <span>Renter mode</span>
+                    <strong>Browse, save, and place rental requests.</strong>
+                  </div>
+                  <div className="auth-stage__credential-row auth-stage__credential-row--stacked">
+                    <span>Lender mode</span>
+                    <strong>Upload, price, review, and manage listings.</strong>
+                  </div>
                 </div>
               </div>
             </div>

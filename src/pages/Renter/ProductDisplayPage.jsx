@@ -143,7 +143,7 @@ function ProductDisplayPage() {
           <section className="catalog-results">
             <div className="row g-4">
               {products.map((product) => (
-                <div className="col-sm-6 col-lg-6 col-xl-4" key={product.id}>
+                <div className="col-6 col-lg-6 col-xl-4" key={product.id}>
                   <ProductCard product={product} />
                 </div>
               ))}

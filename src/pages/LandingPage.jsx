@@ -38,62 +38,18 @@ const heroMoments = [
   },
 ];
 
-const promiseItems = [
+const supportItems = [
   {
-    index: '01',
-    title: 'Style-first discovery',
-    copy: 'Browse by occasion, category, and mood without losing the premium feel.',
+    title: 'Curated discovery',
+    copy: 'Browse sharper edits instead of getting lost in a giant catalog.',
   },
   {
-    index: '02',
-    title: 'Lender-ready tooling',
-    copy: 'Pricing guidance, listing flows, and review support stay inside the same product language.',
+    title: 'Reviewed listings',
+    copy: 'Pricing guidance and moderation stay built into the platform.',
   },
   {
-    index: '03',
-    title: 'Try-on direction',
-    copy: 'Validated virtual try-on prototypes keep the roadmap grounded in something already working.',
-  },
-];
-
-const experienceSteps = [
-  {
-    index: '01',
-    title: 'Find the right mood fast',
-    copy: 'Move from curated edits into the filtered catalog without getting buried in interface chrome.',
-  },
-  {
-    index: '02',
-    title: 'Inspect each piece with confidence',
-    copy: 'Product detail, cart, and order touchpoints stay cleaner and more consistent from one route to the next.',
-  },
-  {
-    index: '03',
-    title: 'Keep the supply side polished',
-    copy: 'Lenders get pricing support, moderation guidance, and a calmer workspace rather than a dashboard pile-up.',
-  },
-];
-
-const platformNotes = [
-  {
-    label: 'For renters',
-    title: 'Editorial browsing with less friction',
-    copy: 'The catalog now relies on image hierarchy, quieter cards, and clearer product entry points rather than stacked controls.',
-  },
-  {
-    label: 'For lenders',
-    title: 'A real workspace instead of a generic admin surface',
-    copy: 'Upload, review, and listing management screens are now tuned to the same premium language as the storefront.',
-  },
-  {
-    label: 'For trust',
-    title: 'The rules remain visible without feeling heavy',
-    copy: 'Moderation states, hygiene signals, and verification cues still show up, but they stop overwhelming the product.',
-  },
-  {
-    label: 'For scale',
-    title: 'Cloud-ready try-on direction',
-    copy: 'OOTDiffusion has already been validated separately, so the platform can move toward hosted try-on without pretending it is finished today.',
+    title: 'Lender-ready flow',
+    copy: 'Upload, price, and publish from one calmer workspace.',
   },
 ];
 
@@ -128,7 +84,7 @@ function LandingPage() {
                   Wear the statement piece. Skip the one-time purchase.
                 </h1>
                 <p className="landing-hero__lede">
-                  Rent a Fit brings sharper discovery, calmer browsing, and lender tooling that feels as considered as the wardrobe itself.
+                  Rent standout pieces for the moments that need them, then return them without building a closet full of one-time buys.
                 </p>
 
                 <div className="landing-hero__actions">
@@ -177,14 +133,11 @@ function LandingPage() {
               </Reveal>
             </div>
 
-            <Reveal className="landing-hero__promise-list landing-hero__promise-list--grid" delay={160} offset={20}>
-              {promiseItems.map((item) => (
-                <div className="landing-hero__promise landing-hero__promise--card" key={item.index}>
-                  <span className="landing-hero__promise-index">{item.index}</span>
-                  <div>
-                    <h2>{item.title}</h2>
-                    <p>{item.copy}</p>
-                  </div>
+            <Reveal className="landing-support-strip" delay={160} offset={20}>
+              {supportItems.map((item) => (
+                <div className="landing-support-card" key={item.title}>
+                  <h2>{item.title}</h2>
+                  <p className="mb-0">{item.copy}</p>
                 </div>
               ))}
             </Reveal>
@@ -199,60 +152,20 @@ function LandingPage() {
           </div>
         </section>
 
-        <section className="container-xxl px-3 px-lg-4 py-4">
-          <Reveal className="section-heading section-heading--stacked" as="div">
-            <p className="eyebrow mb-0">How the experience moves</p>
-            <h2 className="section-title mb-0">A calmer fashion journey for both sides of the marketplace.</h2>
-            <p className="section-subtitle mb-0">
-              The product now leans on stronger imagery, fewer competing controls, and cleaner motion so the core idea feels premium instead of improvised.
-            </p>
-          </Reveal>
-
-          <div className="experience-grid">
-            {experienceSteps.map((step, index) => (
-              <Reveal className="experience-step" key={step.index} delay={index * 100}>
-                <span className="experience-step__index">{step.index}</span>
-                <h3 className="experience-step__title">{step.title}</h3>
-                <p className="experience-step__copy mb-0">{step.copy}</p>
-              </Reveal>
-            ))}
-          </div>
-        </section>
-
         <section id="collections" className="container-xxl py-3 px-3 px-lg-4">
           <ProductRail
             eyebrow="Trending edit"
             title="Pieces renters are gravitating toward right now"
-            subtitle="The catalog cards stay minimal now, so the products carry the section instead of fighting extra buttons."
+            subtitle="Smaller product cards, cleaner rails, and quicker entry into each listing."
             products={trendingProducts}
           />
-        </section>
-
-        <section className="container-xxl py-4 px-3 px-lg-4">
-          <Reveal className="section-heading section-heading--stacked" as="div" offset={32}>
-            <p className="eyebrow mb-0">Why it feels sharper now</p>
-            <h2 className="section-title mb-0">The interface reads more like a fashion product and less like a stitched-together demo.</h2>
-            <p className="section-subtitle mb-0">
-              The strongest changes are not extra widgets. They are better composition, clearer product hierarchy, and more disciplined renter and lender touchpoints.
-            </p>
-          </Reveal>
-
-          <div className="editorial-note-grid editorial-note-grid--balanced editorial-note-grid--landing">
-            {platformNotes.map((note, index) => (
-              <Reveal className="editorial-note" key={note.title} delay={index * 90}>
-                <p className="eyebrow mb-2">{note.label}</p>
-                <h3 className="detail-title mb-2">{note.title}</h3>
-                <p className="mb-0">{note.copy}</p>
-              </Reveal>
-            ))}
-          </div>
         </section>
 
         <section className="container-xxl py-3 px-3 px-lg-4">
           <ProductRail
             eyebrow="Fresh arrivals"
             title="Recently uploaded listings that keep the catalog moving"
-            subtitle="Newer arrivals inherit the same quieter product card system and cleaner scroll rhythm."
+            subtitle="New arrivals inherit the same calmer product language so browsing still feels light on mobile and desktop."
             products={recentProducts}
           />
         </section>
@@ -260,10 +173,10 @@ function LandingPage() {
         <section className="container-xxl py-5 px-3 px-lg-4">
           <Reveal className="landing-cta" as="div" offset={28}>
             <div>
-              <p className="eyebrow text-white-50 mb-2">Ready to keep building</p>
-              <h2 className="section-title text-white mb-2">Browse the live catalog, open lender space, or keep refining the full product around this cleaner language.</h2>
+              <p className="eyebrow text-white-50 mb-2">Need the full picture?</p>
+              <h2 className="section-title text-white mb-2">Read how Rent a Fit works for renters, lenders, and the business behind the platform.</h2>
               <p className="mb-0 landing-cta__copy">
-                The storefront, auth, and lender routes now feel far closer to one product instead of disconnected screens.
+                The homepage now stays focused on discovery. The fuller story lives in one place when people actually want it.
               </p>
             </div>
 
@@ -271,8 +184,8 @@ function LandingPage() {
               <button type="button" className="btn btn-light rounded-pill px-4" onClick={() => navigate('/products')}>
                 Start renting
               </button>
-              <button type="button" className="btn btn-outline-light rounded-pill px-4" onClick={() => navigate('/faq')}>
-                Read the FAQ
+              <button type="button" className="btn btn-outline-light rounded-pill px-4" onClick={() => navigate('/about')}>
+                About Rent a Fit
               </button>
             </div>
           </Reveal>

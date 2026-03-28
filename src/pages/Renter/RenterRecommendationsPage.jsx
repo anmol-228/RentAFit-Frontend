@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useState } from "react";
 import AppNavbar from "../../components/AppNavbar";
 import { fetchModelCSamples, recommendItems } from "../../services/api";
+import { formatCurrency } from "../../utils/formatters";
 
 function RenterRecommendationsPage() {
   const [mode, setMode] = useState("seed");
@@ -60,14 +61,15 @@ function RenterRecommendationsPage() {
   };
 
   return (
-    <div className="lender-shell min-vh-100">
+    <div className="lender-shell min-vh-100 recommendations-shell">
       <AppNavbar />
 
       <div className="container py-5">
-        <div className="d-flex flex-column flex-md-row justify-content-between align-items-start gap-3 mb-4">
+        <div className="d-flex flex-column flex-md-row justify-content-between align-items-start gap-3 mb-4 recommendations-shell__header">
           <div>
-            <h2 className="fw-bold mb-1">Renter Recommendations (Model C)</h2>
-            <p className="text-muted mb-0">
+            <p className="eyebrow mb-2">Model C recommendations</p>
+            <h1 className="section-title mb-2">Find nearby fits without breaking the storefront mood.</h1>
+            <p className="text-muted mb-0 recommendations-shell__copy">
               Generate item recommendations using the content-based baseline.
             </p>
           </div>
@@ -80,11 +82,11 @@ function RenterRecommendationsPage() {
         )}
 
         <form
-          className="card border-0 shadow-sm rounded-4 mb-4"
+          className="card border-0 shadow-sm rounded-4 mb-4 recommendation-form-card"
           onSubmit={handleSubmit}
         >
           <div className="card-body p-4">
-            <div className="d-flex gap-3 mb-3">
+            <div className="d-flex gap-3 mb-3 flex-wrap">
               <button
                 type="button"
                 className={`btn ${mode === "seed" ? "btn-primary" : "btn-outline-primary"}`}
@@ -163,30 +165,31 @@ function RenterRecommendationsPage() {
         </form>
 
         {results && (
-          <div className="card border-0 shadow-sm rounded-4">
+          <div className="card border-0 shadow-sm rounded-4 recommendation-result-card">
             <div className="card-body p-4">
               <h5 className="fw-semibold mb-3">Recommendations</h5>
               <div className="row g-3">
                 {(results.recommendations || []).map((rec) => (
                   <div className="col-md-6" key={rec.listing_id}>
-                    <div className="border rounded-3 p-3 h-100">
-                      <div className="fw-semibold">
+                    <div className="border rounded-3 p-3 h-100 recommendation-item-card">
+                      <div className="fw-semibold recommendation-item__title">
                         {rec.listing_id} - {rec.category}
                       </div>
-                      <div className="text-muted small">Brand: {rec.brand}</div>
-                      <div className="text-muted small">
+                      <div className="text-muted small recommendation-item__meta">Brand: {rec.brand}</div>
+                      <div className="text-muted small recommendation-item__meta">
                         Material: {rec.material}
                       </div>
-                      <div className="text-muted small">
+                      <div className="text-muted small recommendation-item__meta">
                         Tier: {rec.tier_primary}
                       </div>
-                      <div className="text-muted small">
-                        Price: ₹{rec.provider_price}
+                      <div className="recommendation-item__price">
+                        <span>Rental price</span>
+                        <strong>{formatCurrency(rec.provider_price)}</strong>
                       </div>
-                      <div className="text-muted small">
+                      <div className="text-muted small recommendation-item__meta">
                         Similarity: {rec.similarity_score}
                       </div>
-                      <div className="text-muted small">
+                      <div className="text-muted small recommendation-item__meta">
                         Reasons: {rec.explanation_reasons.join(", ")}
                       </div>
                     </div>

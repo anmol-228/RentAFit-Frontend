@@ -3,11 +3,11 @@ import { NavLink, useNavigate } from 'react-router-dom';
 import SearchModal from './SearchModal';
 import { clearCurrentUser, getCartCount, getCurrentUser, hasLenderAccess } from '../services/store';
 
-const THEME_STORAGE_KEY = 'rentafit-theme-preference';
+const THEME_STORAGE_KEY = 'rentafit-theme';
 
 function getPreferredTheme() {
   if (typeof window === 'undefined') return 'light';
-  const storedTheme = window.localStorage.getItem(THEME_STORAGE_KEY);
+  const storedTheme = window.sessionStorage.getItem(THEME_STORAGE_KEY);
   if (storedTheme === 'light' || storedTheme === 'dark') return storedTheme;
   return 'light';
 }
@@ -125,7 +125,7 @@ function AppNavbar() {
 
   useEffect(() => {
     document.documentElement.dataset.theme = theme;
-    window.localStorage.setItem(THEME_STORAGE_KEY, theme);
+    window.sessionStorage.setItem(THEME_STORAGE_KEY, theme);
   }, [theme]);
 
   const profileLabel = useMemo(() => user?.name?.split(' ')[0] || 'Account', [user]);
@@ -184,6 +184,9 @@ function AppNavbar() {
               </li>
               <li className="nav-item">
                 <NavLink to="/products" className="nav-link app-nav-link">Rent</NavLink>
+              </li>
+              <li className="nav-item">
+                <NavLink to="/about" className="nav-link app-nav-link">About</NavLink>
               </li>
               <li className="nav-item">
                 <NavLink to="/faq" className="nav-link app-nav-link">FAQ</NavLink>

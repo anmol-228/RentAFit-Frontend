@@ -10,6 +10,7 @@ import ProductDetailPage from './pages/Renter/ProductDetailPage';
 import CartPage from './pages/Renter/CartPage';
 import OrdersPage from './pages/Renter/OrdersPage';
 import FaqPage from './pages/Info/FaqPage';
+import AboutPage from './pages/Info/AboutPage';
 import { getCurrentUser } from './services/store';
 
 function LenderEntryRoute() {
@@ -28,6 +29,7 @@ function App() {
       <div key={`${location.pathname}${location.search}`} className="route-stage">
         <Routes location={location}>
           <Route path="/" element={<LandingPage />} />
+          <Route path="/about" element={<AboutPage />} />
           <Route path="/products" element={<ProductDisplayPage />} />
           <Route path="/products/:productId" element={<ProductDetailPage />} />
           <Route path="/cart" element={<CartPage />} />

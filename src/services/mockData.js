@@ -26,7 +26,7 @@ function buildImageToken(product, imageUrl, index = 0) {
   return {
     id: `${product.id}-img-${index + 1}`,
     label: `${product.brand} ${product.category}`,
-    imageUrl: resolveAssetPath(imageUrl),
+    imageUrl,
     alt: `${product.name} image ${index + 1}`,
     palette: product.colorTheme || ['#7B1E2B', '#F5E9DC'],
   };
