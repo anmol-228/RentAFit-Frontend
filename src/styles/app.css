@@ -6280,3 +6280,186 @@ html[data-theme='dark'] .lender-listing-card__meta-item span {
   }
 }
 /* lender-polish-pass-end */
+
+
+/* final-theme-and-auth-pass-start */
+.auth-stage__visual {
+  background: #15191f;
+}
+
+.auth-stage__image {
+  z-index: 0;
+  filter: saturate(0.95) contrast(1.02) brightness(0.92);
+}
+
+.auth-stage__visual::after {
+  z-index: 0;
+  background: linear-gradient(180deg, rgba(12, 15, 20, 0.18), rgba(12, 15, 20, 0.68));
+}
+
+.auth-stage__motion {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  overflow: hidden;
+  pointer-events: none;
+}
+
+.auth-stage__content {
+  z-index: 2;
+}
+
+.auth-stage__glow {
+  position: absolute;
+  border-radius: 999px;
+  filter: blur(14px);
+  opacity: 0.82;
+  animation: authStageFloat 10s ease-in-out infinite alternate;
+}
+
+.auth-stage__glow--one {
+  top: 8%;
+  right: -3rem;
+  width: 16rem;
+  height: 16rem;
+  background: radial-gradient(circle, rgba(244, 229, 212, 0.32), rgba(244, 229, 212, 0));
+}
+
+.auth-stage__glow--two {
+  left: -2rem;
+  bottom: 12%;
+  width: 12rem;
+  height: 12rem;
+  background: radial-gradient(circle, rgba(103, 140, 186, 0.28), rgba(103, 140, 186, 0));
+  animation-delay: -4s;
+}
+
+.auth-stage__chip {
+  position: absolute;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0.68rem 0.98rem;
+  border-radius: 999px;
+  border: 1px solid rgba(255, 255, 255, 0.16);
+  background: rgba(15, 18, 24, 0.34);
+  color: rgba(255, 255, 255, 0.92);
+  backdrop-filter: blur(12px);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  animation: authStageDrift 7s ease-in-out infinite;
+}
+
+.auth-stage__chip::before {
+  content: '';
+  width: 0.5rem;
+  height: 0.5rem;
+  border-radius: 999px;
+  background: rgba(244, 229, 212, 0.94);
+  box-shadow: 0 0 0 6px rgba(244, 229, 212, 0.1);
+}
+
+.auth-stage__chip--one {
+  top: 10%;
+  right: 8%;
+}
+
+.auth-stage__chip--two {
+  left: 7%;
+  bottom: 14%;
+  animation-delay: -2.4s;
+}
+
+@keyframes authStageFloat {
+  from {
+    transform: translate3d(0, 0, 0) scale(1);
+  }
+
+  to {
+    transform: translate3d(0, 18px, 0) scale(1.04);
+  }
+}
+
+@keyframes authStageDrift {
+  0%,
+  100% {
+    transform: translate3d(0, 0, 0);
+  }
+
+  50% {
+    transform: translate3d(0, -10px, 0);
+  }
+}
+
+html[data-theme='dark'] {
+  --brand-bg: #101317;
+  --brand-bg-strong: #171b20;
+  --surface: #1c2128;
+  --surface-alt: #252b34;
+  --text-main: #f6efe6;
+  --text-muted: #d3c9be;
+  --border-soft: rgba(255, 255, 255, 0.12);
+}
+
+html[data-theme='dark'] .rail-shell,
+html[data-theme='dark'] .section-shell,
+html[data-theme='dark'] .experience-step,
+html[data-theme='dark'] .editorial-note,
+html[data-theme='dark'] .landing-hero__promise--card,
+html[data-theme='dark'] .empty-view,
+html[data-theme='dark'] .cart-page__bag-head,
+html[data-theme='dark'] .cart-card,
+html[data-theme='dark'] .auth-stage,
+html[data-theme='dark'] .auth-stage__panel {
+  background: linear-gradient(180deg, rgba(28, 32, 39, 0.96), rgba(22, 25, 31, 0.94));
+  border-color: rgba(255, 255, 255, 0.1);
+  box-shadow: 0 22px 42px rgba(0, 0, 0, 0.28);
+}
+
+html[data-theme='dark'] .rail-shell {
+  background: linear-gradient(180deg, rgba(31, 35, 42, 0.96), rgba(24, 27, 33, 0.94));
+}
+
+html[data-theme='dark'] .landing-hero__promise h2,
+html[data-theme='dark'] .experience-step__title,
+html[data-theme='dark'] .empty-view h3,
+html[data-theme='dark'] .cart-page__bag-count,
+html[data-theme='dark'] .cart-page__bag-count strong,
+html[data-theme='dark'] .auth-stage__panel .section-title,
+html[data-theme='dark'] .auth-stage__panel .form-label {
+  color: var(--text-main) !important;
+}
+
+html[data-theme='dark'] .landing-hero__promise p,
+html[data-theme='dark'] .experience-step__copy,
+html[data-theme='dark'] .empty-view p,
+html[data-theme='dark'] .section-heading--stacked .section-subtitle,
+html[data-theme='dark'] .rail-shell .section-subtitle,
+html[data-theme='dark'] .cart-page__bag-note,
+html[data-theme='dark'] .auth-stage__panel .text-muted,
+html[data-theme='dark'] .auth-stage__copy,
+html[data-theme='dark'] .auth-stage__highlight,
+html[data-theme='dark'] .auth-stage__credential-card span {
+  color: var(--text-muted) !important;
+}
+
+html[data-theme='dark'] .landing-hero__promise-index,
+html[data-theme='dark'] .experience-step__index,
+html[data-theme='dark'] .auth-stage__kicker,
+html[data-theme='dark'] .auth-stage__credential-card .eyebrow {
+  color: rgba(241, 223, 206, 0.74) !important;
+}
+
+html[data-theme='dark'] .auth-stage__highlight,
+html[data-theme='dark'] .auth-stage__credential-card {
+  background: rgba(255, 255, 255, 0.06);
+  border-color: rgba(255, 255, 255, 0.1);
+}
+
+html[data-theme='dark'] .theme-chip,
+html[data-theme='dark'] .icon-chip {
+  color: rgba(246, 239, 230, 0.92);
+}
+/* final-theme-and-auth-pass-end */

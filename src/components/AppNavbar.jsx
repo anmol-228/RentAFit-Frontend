@@ -3,13 +3,13 @@ import { NavLink, useNavigate } from 'react-router-dom';
 import SearchModal from './SearchModal';
 import { clearCurrentUser, getCartCount, getCurrentUser, hasLenderAccess } from '../services/store';
 
-const THEME_STORAGE_KEY = 'rentafit-theme';
+const THEME_STORAGE_KEY = 'rentafit-theme-preference';
 
 function getPreferredTheme() {
   if (typeof window === 'undefined') return 'light';
   const storedTheme = window.localStorage.getItem(THEME_STORAGE_KEY);
   if (storedTheme === 'light' || storedTheme === 'dark') return storedTheme;
-  return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+  return 'light';
 }
 
 function CartIcon() {
