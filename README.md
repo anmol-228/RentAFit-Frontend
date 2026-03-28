@@ -1,12 +1,17 @@
 # RentAFit Frontend
 
-React + Bootstrap frontend for the `Rent a Fit` renter and lender experience.
+Work-in-progress React + Bootstrap frontend for the `Rent a Fit` renter and lender experience.
+
+## Status
+- This repository represents the current frontend product pass, not a finished production release.
+- The public GitHub Pages build is meant to show the UI, navigation, and core renter/lender flows while backend integration is still being completed.
+- Some flows still rely on mock responses, browser storage, and placeholder behavior where the full platform is still under development.
 
 ## Live Demo
 - GitHub repo: `anmol-228/RentAFit-Frontend`
 - GitHub Pages: `https://anmol-228.github.io/RentAFit-Frontend/`
 
-The current app is intentionally **frontend-first**:
+The current app is intentionally **frontend-first** and still under active development:
 - placeholder visuals instead of final product photos
 - live search, cart, auth, and lender flows in the UI
 - mock-first ML integration so the frontend works even without a running backend
@@ -158,5 +163,6 @@ In mock mode, the frontend still works even if these endpoints are not running.
 ## Notes
 - Search, cart, auth, and lender listings use browser storage for the current frontend pass.
 - The recommendation experience is embedded into product detail and cart flows rather than using a separate renter recommendations route.
-- This frontend is ready for later backend integration, but it does not require backend work to demo the UI right now.
+- This frontend is still a work in progress and is being prepared step by step for deeper backend integration.
+- Some renter, lender, and ML-driven flows are currently simulated so the UI can be reviewed before the full platform wiring is complete.
 - GitHub Pages deployment is meant to run in mock mode so the public demo stays usable without the Spring or Python services.
