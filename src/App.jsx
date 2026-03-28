@@ -1,4 +1,4 @@
-import { useLayoutEffect } from 'react';
+import { useEffect, useLayoutEffect } from 'react';
 import { Navigate, Route, Routes, useLocation } from 'react-router-dom';
 import LandingPage from './pages/LandingPage';
 import SignupPage from './pages/Auth/SignupPage';
@@ -22,11 +22,34 @@ function LenderEntryRoute() {
   return <Navigate to="/lender/dashboard" replace />;
 }
 
-function RouteScrollReset({ pathname, search }) {
+function RouteScrollReset({ locationKey, pathname, search }) {
+  useEffect(() => {
+    if (typeof window === 'undefined' || !window.history) return undefined;
+    const previous = window.history.scrollRestoration;
+    window.history.scrollRestoration = 'manual';
+    return () => {
+      window.history.scrollRestoration = previous;
+    };
+  }, []);
+
   useLayoutEffect(() => {
-    if (typeof window === 'undefined') return;
-    window.scrollTo({ top: 0, left: 0, behavior: 'auto' });
-  }, [pathname, search]);
+    if (typeof window === 'undefined') return undefined;
+
+    const resetScroll = () => {
+      window.scrollTo({ top: 0, left: 0, behavior: 'auto' });
+      document.documentElement.scrollTo({ top: 0, left: 0, behavior: 'auto' });
+      document.body.scrollTo({ top: 0, left: 0, behavior: 'auto' });
+    };
+
+    resetScroll();
+    const rafId = window.requestAnimationFrame(resetScroll);
+    const timeoutId = window.setTimeout(resetScroll, 60);
+
+    return () => {
+      window.cancelAnimationFrame(rafId);
+      window.clearTimeout(timeoutId);
+    };
+  }, [locationKey, pathname, search]);
 
   return null;
 }
@@ -36,7 +59,7 @@ function App() {
 
   return (
     <>
-      <RouteScrollReset pathname={location.pathname} search={location.search} />
+      <RouteScrollReset locationKey={location.key} pathname={location.pathname} search={location.search} />
       <div className="route-shell">
         <div key={`${location.pathname}${location.search}`} className="route-stage">
           <Routes location={location}>
